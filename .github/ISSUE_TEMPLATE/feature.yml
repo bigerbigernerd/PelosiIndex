@@ -1,0 +1,15 @@
+name: 功能或数据源建议 / Feature request
+description: 讨论新的适配器、视觉、性能、无障碍或协作改进。
+title: "[feature] "
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望改进什么 / Proposal
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 来源和范围 / Sources and scope
+      description: 新数据源请给官方入口，并说明与现有披露类型的区别。

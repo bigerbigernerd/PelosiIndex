@@ -1,0 +1,126 @@
+{
+  "mode": "synthetic_fixture",
+  "as_of": "2026-10-03T12:00:00+03:00",
+  "timezone": "Asia/Riyadh",
+  "scope": "Boundary test only; named entities and tickers illustrate the interface. Every transaction, price/value and date below is synthetic. No actual trade is asserted.",
+  "missing_datasets": [
+    "live prices",
+    "issuer financial statements",
+    "portfolio opening balances",
+    "option contract terms",
+    "official publication timestamps",
+    "fees/slippage"
+  ],
+  "sources": [
+    {
+      "id": "F1",
+      "type": "PTR fixture",
+      "title": "Synthetic Pelosi Household option exercise",
+      "locator": "fixture://synthetic-evidence/F1",
+      "verification": "synthetic",
+      "retrieved_at": "2026-10-03"
+    },
+    {
+      "id": "F2",
+      "type": "13F fixture",
+      "title": "Synthetic Example Manager quarterly comparison",
+      "locator": "fixture://synthetic-evidence/F2",
+      "verification": "synthetic",
+      "retrieved_at": "2026-10-03"
+    },
+    {
+      "id": "F3",
+      "type": "Form 4 fixture",
+      "title": "Synthetic example executive planned sale",
+      "locator": "fixture://synthetic-evidence/F3",
+      "verification": "synthetic",
+      "retrieved_at": "2026-10-03"
+    },
+    {
+      "id": "F4",
+      "type": "Fund trade fixture",
+      "title": "Synthetic ARKK daily purchase row",
+      "locator": "fixture://synthetic-evidence/F4",
+      "verification": "synthetic",
+      "retrieved_at": "2026-10-03"
+    }
+  ],
+  "records": [
+    {
+      "id": "R1",
+      "source_id": "F1",
+      "locator": "row 1",
+      "subject": "Pelosi Household",
+      "filer": "Nancy Pelosi",
+      "owner_code": "SP",
+      "ticker": "GOOGL",
+      "instrument": "call option exercise",
+      "event": "exercise",
+      "transaction_date": "2026-09-01",
+      "public_date": "2026-09-20",
+      "date_note": "public_date is a synthetic first-publication date, not signature or notification date",
+      "reported_currency": "USD",
+      "amount_lower": 100001,
+      "amount_upper": 250000,
+      "units": null,
+      "option_terms": null,
+      "amendment": false
+    },
+    {
+      "id": "R2",
+      "source_id": "F2",
+      "locator": "matched CUSIP EXAMPLE001, same class",
+      "subject": "Example Institutional Manager",
+      "ticker": "NVDA",
+      "instrument": "common stock",
+      "event": "quarterly snapshot comparison",
+      "previous_as_of": "2026-03-31",
+      "as_of_date": "2026-06-30",
+      "public_date": "2026-08-14",
+      "previous_shares": 1000,
+      "current_shares": 1000,
+      "previous_value_usd": 100000,
+      "current_value_usd": 120000,
+      "share_split": false,
+      "both_snapshots_complete": true,
+      "amendment": false
+    },
+    {
+      "id": "R3",
+      "source_id": "F3",
+      "locator": "non-derivative table row 1; footnote 1",
+      "subject": "Example Executive (not NVIDIA management)",
+      "ticker": "NVDA",
+      "instrument": "common stock",
+      "event": "sale",
+      "transaction_code": "S",
+      "transaction_date": "2026-09-28",
+      "public_date": "2026-09-30",
+      "owner": "direct",
+      "shares": 100,
+      "unit_price_usd": 120,
+      "plan_10b5_1": true,
+      "plan_adopted_date": "2026-01-15",
+      "footnote": "synthetic sale pursuant to pre-arranged trading plan",
+      "amendment": false
+    },
+    {
+      "id": "R4",
+      "source_id": "F4",
+      "locator": "daily trade row 1",
+      "subject": "ARK Innovation ETF",
+      "fund": "ARKK",
+      "ticker": "NVDA",
+      "instrument": "common stock",
+      "event": "purchase",
+      "transaction_date": "2026-10-01",
+      "public_date": "2026-10-01",
+      "units": 500,
+      "units_type": "shares",
+      "amount_lower": null,
+      "amount_upper": null,
+      "completeness": "single fixture row only",
+      "amendment": false
+    }
+  ]
+}

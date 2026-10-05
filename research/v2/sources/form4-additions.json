@@ -1,0 +1,41 @@
+{
+  "schema": "pelosi-form4-contributions-v1",
+  "people": [
+    {
+      "id": "donald-j-trump",
+      "name_zh": "唐纳德·J·特朗普",
+      "name_en": "Donald J. Trump",
+      "owner_cik": "0000947033",
+      "category": "pol",
+      "ticker": "DJT",
+      "edgar_name": "TRUMP DONALD J",
+      "title": "10% beneficial owner of Trump Media & Technology Group Corp. (per 2024 Form 4)",
+      "role_zh": "DJT 超过10%股权申报人 · SEC Form 4（2024）",
+      "role_en": "DJT >10% beneficial owner · SEC Form 4 (2024)",
+      "coverage_note_zh": "当前收录两份 2024 年历史 Form 4。12 月是赠与可撤销信托，原件说明未卖出；并不代表当前完整持仓。",
+      "coverage_note_en": "Two historical Form 4 filings from 2024 are included. The December transfer was a gift to a revocable trust; the filing states no shares were sold. This is not a current complete portfolio.",
+      "filings": [
+        {
+          "accession": "0001474506-24-000291",
+          "form": "4",
+          "filingDate": "2024-12-19",
+          "reportDate": "2024-12-17",
+          "xml_url": "https://www.sec.gov/Archives/edgar/data/947033/000147450624000291/primary_doc.xml",
+          "local_path": "sources/raw/form4/donald-j-trump/0001474506-24-000291/primary_doc.xml",
+          "sha256": "e6b11b771aa90be4276842923fbad6e23695ba7b13c8022e7f220dcc6cb29003",
+          "bytes": 5185
+        },
+        {
+          "accession": "0001474506-24-000146",
+          "form": "4",
+          "filingDate": "2024-04-30",
+          "reportDate": "2024-04-26",
+          "xml_url": "https://www.sec.gov/Archives/edgar/data/947033/000147450624000146/primary_doc.xml",
+          "local_path": "sources/raw/form4/donald-j-trump/0001474506-24-000146/primary_doc.xml",
+          "sha256": "1223be85c8e6ac7cb7b4ceebc224dd52e172f94ec221c2d6a1fc57cd6e18424e",
+          "bytes": 7542
+        }
+      ]
+    }
+  ]
+}

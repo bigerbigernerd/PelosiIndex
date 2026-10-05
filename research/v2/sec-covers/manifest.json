@@ -1,0 +1,227 @@
+[
+ {
+  "id": "berkshire",
+  "accession": "0001193125-26-352200",
+  "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/primary_doc.xml",
+  "path": "sec-covers/000119312526352200/primary_doc.xml",
+  "bytes": 5555,
+  "sha256": "7e7b3a8f87a290f56454b6ecaacd2cb4639af97a36d0c4064ee3d78be0d56723",
+  "at": "2026-10-04T18:31:57.921179+00:00"
+ },
+ {
+  "id": "pershing-square",
+  "accession": "0001172661-26-003790",
+  "url": "https://www.sec.gov/Archives/edgar/data/2026053/000117266126003790/primary_doc.xml",
+  "path": "sec-covers/000117266126003790/primary_doc.xml",
+  "bytes": 3679,
+  "sha256": "30948bcc5ca994d8ea82ac7271be1991c4cbebc3cba8df61aa1d0cd083d2a59c",
+  "at": "2026-10-04T18:32:00.817905+00:00"
+ },
+ {
+  "id": "duquesne-family-office",
+  "accession": "0001536411-26-000006",
+  "url": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000006/primary_doc.xml",
+  "path": "sec-covers/000153641126000006/primary_doc.xml",
+  "bytes": 2027,
+  "sha256": "8b36208d25571f1ae61e22999c11c2242557410c9b8b6a7046c676c211b62d0c",
+  "at": "2026-10-04T18:32:03.726432+00:00"
+ },
+ {
+  "id": "appaloosa",
+  "accession": "0001656456-26-000003",
+  "url": "https://www.sec.gov/Archives/edgar/data/1656456/000165645626000003/primary_doc.xml",
+  "path": "sec-covers/000165645626000003/primary_doc.xml",
+  "bytes": 2233,
+  "sha256": "fb0605557f670c4adfa66c8da29320f3c35bf6f3b36d1b90b127b68129510184",
+  "at": "2026-10-04T18:32:06.597424+00:00"
+ },
+ {
+  "id": "bridgewater",
+  "accession": "0001350694-26-000003",
+  "url": "https://www.sec.gov/Archives/edgar/data/1350694/000135069426000003/primary_doc.xml",
+  "path": "sec-covers/000135069426000003/primary_doc.xml",
+  "bytes": 2073,
+  "sha256": "19fd9584282951edf38431a1371a3f97ae28ab2ee77774e51dd02511a608eb8c",
+  "at": "2026-10-04T18:32:09.694030+00:00"
+ },
+ {
+  "id": "renaissance",
+  "accession": "0001037389-26-000059",
+  "url": "https://www.sec.gov/Archives/edgar/data/1037389/000103738926000059/primary_doc.xml",
+  "path": "sec-covers/000103738926000059/primary_doc.xml",
+  "bytes": 2020,
+  "sha256": "43466ac206277dfe61e6b53b10896531f0170f08c001ac6b199dc7ea5b704c2a",
+  "at": "2026-10-04T18:32:12.738031+00:00"
+ },
+ {
+  "id": "citadel",
+  "accession": "0001104659-26-097200",
+  "url": "https://www.sec.gov/Archives/edgar/data/1423053/000110465926097200/primary_doc.xml",
+  "path": "sec-covers/000110465926097200/primary_doc.xml",
+  "bytes": 2419,
+  "sha256": "4dd40f736c58e12077fc02aed5aec37ac66ddbaee0b440be905383db164cd17d",
+  "at": "2026-10-04T18:32:15.661977+00:00"
+ },
+ {
+  "id": "baupost",
+  "accession": "0001061768-26-000010",
+  "url": "https://www.sec.gov/Archives/edgar/data/1061768/000106176826000010/primary_doc.xml",
+  "path": "sec-covers/000106176826000010/primary_doc.xml",
+  "bytes": 1967,
+  "sha256": "607717660ee58e7bb121991e4fa26c7969f13741ad0d051a81d0dc88a0ac7326",
+  "at": "2026-10-04T18:32:18.572907+00:00"
+ },
+ {
+  "id": "third-point",
+  "accession": "0001040273-26-000003",
+  "url": "https://www.sec.gov/Archives/edgar/data/1040273/000104027326000003/primary_doc.xml",
+  "path": "sec-covers/000104027326000003/primary_doc.xml",
+  "bytes": 2024,
+  "sha256": "ac1214e7dea4292e17997dee7cb5c7b6142b0a32402b1214766b652ef465a659",
+  "at": "2026-10-04T18:32:21.433618+00:00"
+ },
+ {
+  "id": "viking",
+  "accession": "0001103804-26-000006",
+  "url": "https://www.sec.gov/Archives/edgar/data/1103804/000110380426000006/primary_doc.xml",
+  "path": "sec-covers/000110380426000006/primary_doc.xml",
+  "bytes": 2065,
+  "sha256": "462656b4d199e50081d5c8a77e155b12853fdc69a00499b6fb01550742756fda",
+  "at": "2026-10-04T18:32:24.292145+00:00"
+ },
+ {
+  "id": "tiger-global",
+  "accession": "0000919574-26-005427",
+  "url": "https://www.sec.gov/Archives/edgar/data/1167483/000091957426005427/primary_doc.xml",
+  "path": "sec-covers/000091957426005427/primary_doc.xml",
+  "bytes": 2187,
+  "sha256": "8fe932e31d7d75a7c3920b12cb246d402eb8686d82ff65c2413f55b1dbdc265f",
+  "at": "2026-10-04T18:32:27.193234+00:00"
+ },
+ {
+  "id": "soros",
+  "accession": "0000902664-26-003507",
+  "url": "https://www.sec.gov/Archives/edgar/data/1029160/000090266426003507/primary_doc.xml",
+  "path": "sec-covers/000090266426003507/primary_doc.xml",
+  "bytes": 2008,
+  "sha256": "4cc9da417e414eb18c146ec9f28f6559f197a1af325ee70936c72b5a54ddc883",
+  "at": "2026-10-04T18:32:30.076322+00:00"
+ },
+ {
+  "id": "coatue",
+  "accession": "0000919574-26-005478",
+  "url": "https://www.sec.gov/Archives/edgar/data/1135730/000091957426005478/primary_doc.xml",
+  "path": "sec-covers/000091957426005478/primary_doc.xml",
+  "bytes": 10196,
+  "sha256": "9ec7bb83184c9637239eee98544e4c8270bc8a4562a1364a85233a6eef73fe3c",
+  "at": "2026-10-04T18:32:33.003931+00:00"
+ },
+ {
+  "id": "point72",
+  "accession": "0000919574-26-005520",
+  "url": "https://www.sec.gov/Archives/edgar/data/1603466/000091957426005520/primary_doc.xml",
+  "path": "sec-covers/000091957426005520/primary_doc.xml",
+  "bytes": 3080,
+  "sha256": "f23a7499936e2cd4da5f65a10163b7721b2b9d160ec08f0606f3101c1d905ae9",
+  "at": "2026-10-04T18:32:36.229078+00:00"
+ },
+ {
+  "id": "icahn",
+  "accession": "0001539497-26-002243",
+  "url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726002243/primary_doc.xml",
+  "path": "sec-covers/000153949726002243/primary_doc.xml",
+  "bytes": 4788,
+  "sha256": "9a4c488ebdf5f1927dfd515cb3946bda675ac3c6842ab2bd930f680e7a8bae53",
+  "at": "2026-10-04T18:32:39.152504+00:00"
+ },
+ {
+  "id": "elliott",
+  "accession": "0001013594-26-000915",
+  "url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426000915/primary_doc.xml",
+  "path": "sec-covers/000101359426000915/primary_doc.xml",
+  "bytes": 2707,
+  "sha256": "619d6356480b11c1b0a810a53c9714627eab750e991587c47e25ff415724ce1c",
+  "at": "2026-10-04T18:32:42.035528+00:00"
+ },
+ {
+  "id": "lone-pine",
+  "accession": "0000919574-26-005485",
+  "url": "https://www.sec.gov/Archives/edgar/data/1061165/000091957426005485/primary_doc.xml",
+  "path": "sec-covers/000091957426005485/primary_doc.xml",
+  "bytes": 2147,
+  "sha256": "d0f2c50453ff58e74a8a7efc42031b23d69c338d0eecc3a0f7cfe5edf1cb58b1",
+  "at": "2026-10-04T18:32:44.916850+00:00"
+ },
+ {
+  "id": "two-sigma",
+  "accession": "0000899140-26-000855",
+  "url": "https://www.sec.gov/Archives/edgar/data/1179392/000089914026000855/primary_doc.xml",
+  "path": "sec-covers/000089914026000855/primary_doc.xml",
+  "bytes": 7916,
+  "sha256": "13b88259354fb68139724aa096a523a65842d6043b1d3c681ba8d30a3ba73700",
+  "at": "2026-10-04T18:32:47.812806+00:00"
+ },
+ {
+  "id": "de-shaw",
+  "accession": "0001104659-26-097217",
+  "url": "https://www.sec.gov/Archives/edgar/data/1009207/000110465926097217/primary_doc.xml",
+  "path": "sec-covers/000110465926097217/primary_doc.xml",
+  "bytes": 5277,
+  "sha256": "49d47059b8f43bd976ecbba173cfea1f5249af12c423323352254a9dca53ae25",
+  "at": "2026-10-04T18:32:51.141057+00:00"
+ },
+ {
+  "id": "millennium",
+  "accession": "0001273087-26-000007",
+  "url": "https://www.sec.gov/Archives/edgar/data/1273087/000127308726000007/primary_doc.xml",
+  "path": "sec-covers/000127308726000007/primary_doc.xml",
+  "bytes": 4038,
+  "sha256": "1d5a03099f88ce25c9d83f108c2d0b2489ec8f13066a7ded35202a6eb517d307",
+  "at": "2026-10-04T18:32:54.145736+00:00"
+ },
+ {
+  "id": "starboard",
+  "accession": "0000921895-26-002172",
+  "url": "https://www.sec.gov/Archives/edgar/data/1517137/000092189526002172/primary_doc.xml",
+  "path": "sec-covers/000092189526002172/primary_doc.xml",
+  "bytes": 3567,
+  "sha256": "4a41fa5ceb1289e38ec7c98a9a2645289f07f1a2eaa1bbdc75e8d2941abd304f",
+  "at": "2026-10-04T18:32:57.151683+00:00"
+ },
+ {
+  "id": "valueact",
+  "accession": "0001418814-26-000003",
+  "url": "https://www.sec.gov/Archives/edgar/data/1418814/000141881426000003/primary_doc.xml",
+  "path": "sec-covers/000141881426000003/primary_doc.xml",
+  "bytes": 2489,
+  "sha256": "7e2a2c90fdd386ea1def75bf3945924841d7398031636961a9f21bd2b0a4cd9d",
+  "at": "2026-10-04T18:32:59.115244+00:00"
+ },
+ {
+  "id": "ark",
+  "accession": "0001104659-26-096910",
+  "url": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926096910/primary_doc.xml",
+  "path": "sec-covers/000110465926096910/primary_doc.xml",
+  "bytes": 2008,
+  "sha256": "fc76c45ee3fc5c4335d3a5abacc642f3a2d88161c917b7b11a1a20473a4528f0",
+  "at": "2026-10-04T18:33:01.005299+00:00"
+ },
+ {
+  "id": "oaktree",
+  "accession": "0000949509-26-000005",
+  "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000005/primary_doc.xml",
+  "path": "sec-covers/000094950926000005/primary_doc.xml",
+  "bytes": 2999,
+  "sha256": "456422c7c6cda75d2632861ac3df1a8b5546689938d2e0eff05c6e744966ce2d",
+  "at": "2026-10-04T18:33:02.997426+00:00"
+ },
+ {
+  "id": "paulson",
+  "accession": "0001013594-26-000913",
+  "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000913/primary_doc.xml",
+  "path": "sec-covers/000101359426000913/primary_doc.xml",
+  "bytes": 2042,
+  "sha256": "6cd660c5b74963650c79ed4b7e53f779876fb04311f8970479a5bb47dbbb277a",
+  "at": "2026-10-04T18:33:05.637513+00:00"
+ }
+]

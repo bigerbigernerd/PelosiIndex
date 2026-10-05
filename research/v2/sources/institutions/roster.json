@@ -1,0 +1,3575 @@
+{
+  "generated_at_utc": "2026-10-04T18:08:11Z",
+  "existing_count": 25,
+  "new_count": 35,
+  "huge_threshold_rows": 5000,
+  "institutions": [
+    {
+      "id": "berkshire",
+      "zh": "伯克希尔·哈撒韦",
+      "en": "BERKSHIRE HATHAWAY INC",
+      "person": "Warren Buffett",
+      "type": "value",
+      "group": "value",
+      "existing": true,
+      "cik": "0001067983",
+      "domain": "berkshirehathaway.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001193125-26-226661",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 90,
+          "parsed_infoTable_rows": 90,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 263095703570,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/primary_doc.xml",
+            "path": "raw/000119312526226661/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "53405.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml",
+            "path": "raw/000119312526226661/53405.xml",
+            "parsed_infoTable_rows": 90,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "pershing-square",
+      "zh": "潘兴广场",
+      "en": "PERSHING SQUARE INC.",
+      "person": "Bill Ackman",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0002026053",
+      "domain": "pershingsquareholdings.com",
+      "website_from_edgar": null,
+      "note": "2026-03-31 为 13F COMBINATION REPORT，tableEntryTotal=1（HOWARD HUGHES HOLDINGS INC）。封面列出 other manager Pershing Square Capital Management, L.P. CIK 0001336528。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001172661-26-002339",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 1,
+          "parsed_infoTable_rows": 1,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 569340000,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2026053/000117266126002339/primary_doc.xml",
+            "path": "raw/000117266126002339/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2026053/000117266126002339/infotable.xml",
+            "path": "raw/000117266126002339/infotable.xml",
+            "parsed_infoTable_rows": 1,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "duquesne",
+      "zh": "杜肯家族办公室",
+      "en": "Duquesne Family Office LLC",
+      "person": "Stanley Druckenmiller",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001536411",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001536411-26-000004",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 70,
+          "parsed_infoTable_rows": 70,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3376827,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/primary_doc.xml",
+            "path": "raw/000153641126000004/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13f_20260331.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/form13f_20260331.xml",
+            "path": "raw/000153641126000004/form13f_20260331.xml",
+            "parsed_infoTable_rows": 70,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "appaloosa",
+      "zh": "阿帕卢萨",
+      "en": "Appaloosa LP",
+      "person": "David Tepper",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001656456",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001656456-26-000002",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 31,
+          "parsed_infoTable_rows": 31,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 5933477986,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1656456/000165645626000002/primary_doc.xml",
+            "path": "raw/000165645626000002/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Form13FInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1656456/000165645626000002/Form13FInfoTable.xml",
+            "path": "raw/000165645626000002/Form13FInfoTable.xml",
+            "parsed_infoTable_rows": 31,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "appaloosa.com resolves to Appaloosa Horse Club, not Tepper Appaloosa LP"
+    },
+    {
+      "id": "bridgewater",
+      "zh": "桥水",
+      "en": "Bridgewater Associates, LP",
+      "person": "Ray Dalio",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001350694",
+      "domain": "bridgewater.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001350694-26-000002",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 993,
+          "parsed_infoTable_rows": 993,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 22404547213,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1350694/000135069426000002/primary_doc.xml",
+            "path": "raw/000135069426000002/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1350694/000135069426000002/infotable.xml",
+            "path": "raw/000135069426000002/infotable.xml",
+            "parsed_infoTable_rows": 993,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "renaissance",
+      "zh": "文艺复兴科技",
+      "en": "RENAISSANCE TECHNOLOGIES LLC",
+      "person": "Jim Simons",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001037389",
+      "domain": "rentec.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001037389-26-000033",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 3213,
+          "parsed_infoTable_rows": 3213,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 63929893013,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/primary_doc.xml",
+            "path": "raw/000103738926000033/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "renaissance13Fq12026_holding.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/renaissance13Fq12026_holding.xml",
+            "path": "raw/000103738926000033/renaissance13Fq12026_holding.xml",
+            "parsed_infoTable_rows": 3213,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "citadel",
+      "zh": "城堡投资",
+      "en": "CITADEL ADVISORS LLC",
+      "person": "Ken Griffin",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001423053",
+      "domain": "citadel.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-062477",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 15589,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 618473172395,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1423053/000110465926062477/primary_doc.xml",
+            "path": "raw/000110465926062477/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1423053/000110465926062477/infotable.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 15589 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "baupost",
+      "zh": "鲍波斯特",
+      "en": "BAUPOST GROUP LLC/MA",
+      "person": "Seth Klarman",
+      "type": "value",
+      "group": "value",
+      "existing": true,
+      "cik": "0001061768",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001061768-26-000007",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 22,
+          "parsed_infoTable_rows": 22,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 5115380,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/primary_doc.xml",
+            "path": "raw/000106176826000007/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "BGLLCQ12026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/BGLLCQ12026.xml",
+            "path": "raw/000106176826000007/BGLLCQ12026.xml",
+            "parsed_infoTable_rows": 22,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "baupost.com timed out"
+    },
+    {
+      "id": "third-point",
+      "zh": "第三点",
+      "en": "Third Point LLC",
+      "person": "Daniel Loeb",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0001040273",
+      "domain": "thirdpoint.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001040273-26-000002",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 33,
+          "parsed_infoTable_rows": 33,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 2082795760,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/primary_doc.xml",
+            "path": "raw/000104027326000002/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/infotable.xml",
+            "path": "raw/000104027326000002/infotable.xml",
+            "parsed_infoTable_rows": 33,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "viking",
+      "zh": "维京全球",
+      "en": "VIKING GLOBAL INVESTORS LP",
+      "person": "Andreas Halvorsen",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001103804",
+      "domain": "vikingglobal.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001103804-26-000004",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 77,
+          "parsed_infoTable_rows": 77,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 35748670967,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1103804/000110380426000004/primary_doc.xml",
+            "path": "raw/000110380426000004/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "MSFS13F033126.XML",
+            "url": "https://www.sec.gov/Archives/edgar/data/1103804/000110380426000004/MSFS13F033126.XML",
+            "path": "raw/000110380426000004/MSFS13F033126.XML",
+            "parsed_infoTable_rows": 77,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "tiger-global",
+      "zh": "老虎全球",
+      "en": "TIGER GLOBAL MANAGEMENT LLC",
+      "person": "Chase Coleman",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001167483",
+      "domain": "tigerglobal.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000919574-26-003362",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 54,
+          "parsed_infoTable_rows": 54,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 22845413829,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167483/000091957426003362/primary_doc.xml",
+            "path": "raw/000091957426003362/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167483/000091957426003362/infotable.xml",
+            "path": "raw/000091957426003362/infotable.xml",
+            "parsed_infoTable_rows": 54,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "scion",
+      "zh": "赛恩资产",
+      "en": "Scion Asset Management, LLC",
+      "person": "Michael Burry",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001649339",
+      "domain": "scionasset.com",
+      "website_from_edgar": null,
+      "note": "submissions 中无 period=2026-03-31 的 13F-HR。最近一期仍是 2025-09-30（accession 0001649339-25-000007）。本期未下载 2026-06-30（现有 25 家规则）。",
+      "filings": [],
+      "missing_periods": [
+        "2026-03-31"
+      ]
+    },
+    {
+      "id": "soros",
+      "zh": "索罗斯基金管理",
+      "en": "SOROS FUND MANAGEMENT LLC",
+      "person": "George Soros / Dawn Fitzpatrick",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001029160",
+      "domain": "sorosfundmgmt.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000902664-26-002529",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 263,
+          "parsed_infoTable_rows": 263,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 9119078018,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1029160/000090266426002529/primary_doc.xml",
+            "path": "raw/000090266426002529/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1029160/000090266426002529/infotable.xml",
+            "path": "raw/000090266426002529/infotable.xml",
+            "parsed_infoTable_rows": 263,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "coatue",
+      "zh": "Coatue",
+      "en": "COATUE MANAGEMENT LLC",
+      "person": "Philippe Laffont",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001135730",
+      "domain": "coatue.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000919574-26-003501",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 198,
+          "parsed_infoTable_rows": 198,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 29056031305,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1135730/000091957426003501/primary_doc.xml",
+            "path": "raw/000091957426003501/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1135730/000091957426003501/infotable.xml",
+            "path": "raw/000091957426003501/infotable.xml",
+            "parsed_infoTable_rows": 198,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "point72",
+      "zh": "Point72",
+      "en": "Point72 Asset Management, L.P.",
+      "person": "Steven A. Cohen",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001603466",
+      "domain": "point72.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000919574-26-003476",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 3704,
+          "parsed_infoTable_rows": 3704,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 78051184236,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1603466/000091957426003476/primary_doc.xml",
+            "path": "raw/000091957426003476/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1603466/000091957426003476/infotable.xml",
+            "path": "raw/000091957426003476/infotable.xml",
+            "parsed_infoTable_rows": 3704,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "icahn",
+      "zh": "伊坎企业",
+      "en": "ICAHN CARL C",
+      "person": "Carl Icahn",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0000921669",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001539497-26-001469",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 18,
+          "parsed_infoTable_rows": 18,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": true,
+          "tableValueTotal": 8553640766,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726001469/primary_doc.xml",
+            "path": "raw/000153949726001469/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726001469/infotable.xml",
+            "path": "raw/000153949726001469/infotable.xml",
+            "parsed_infoTable_rows": 18,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "ielp.com timed out"
+    },
+    {
+      "id": "elliott",
+      "zh": "埃利奥特",
+      "en": "Elliott Investment Management L.P.",
+      "person": "Paul Singer",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0001791786",
+      "domain": "elliottmgmt.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001013594-26-000613",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 33,
+          "parsed_infoTable_rows": 33,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 20114693048,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426000613/primary_doc.xml",
+            "path": "raw/000101359426000613/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426000613/form13fInfoTable.xml",
+            "path": "raw/000101359426000613/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 33,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "lone-pine",
+      "zh": "孤松资本",
+      "en": "LONE PINE CAPITAL LLC",
+      "person": "Stephen Mandel",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001061165",
+      "domain": "lonepinecapital.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000919574-26-003439",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 36,
+          "parsed_infoTable_rows": 36,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 12543849391,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1061165/000091957426003439/primary_doc.xml",
+            "path": "raw/000091957426003439/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1061165/000091957426003439/infotable.xml",
+            "path": "raw/000091957426003439/infotable.xml",
+            "parsed_infoTable_rows": 36,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "two-sigma",
+      "zh": "双西格玛",
+      "en": "TWO SIGMA INVESTMENTS, LP",
+      "person": "John Overdeck / David Siegel",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001179392",
+      "domain": "twosigma.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000899140-26-000547",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 4546,
+          "parsed_infoTable_rows": 4546,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 123930684213,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1179392/000089914026000547/primary_doc.xml",
+            "path": "raw/000089914026000547/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1179392/000089914026000547/informationtable.xml",
+            "path": "raw/000089914026000547/informationtable.xml",
+            "parsed_infoTable_rows": 4546,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "de-shaw",
+      "zh": "德劭",
+      "en": "D. E. Shaw & Co., Inc.",
+      "person": "David E. Shaw",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001009207",
+      "domain": "deshaw.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-062472",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 5804,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 166309063072,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1009207/000110465926062472/primary_doc.xml",
+            "path": "raw/000110465926062472/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1009207/000110465926062472/infotable.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 5804 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "millennium",
+      "zh": "千禧管理",
+      "en": "MILLENNIUM MANAGEMENT LLC",
+      "person": "Israel Englander",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": true,
+      "cik": "0001273087",
+      "domain": "mlp.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001273087-26-000004",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 5624,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 240290955946,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1273087/000127308726000004/primary_doc.xml",
+            "path": "raw/000127308726000004/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "MLP_FIling_20260331.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1273087/000127308726000004/MLP_FIling_20260331.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 5624 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "starboard",
+      "zh": "星板价值",
+      "en": "Starboard Value LP",
+      "person": "Jeffrey Smith",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0001517137",
+      "domain": "starboardvalue.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000921895-26-001402",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 26,
+          "parsed_infoTable_rows": 26,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 4574765019,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1517137/000092189526001402/primary_doc.xml",
+            "path": "raw/000092189526001402/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1517137/000092189526001402/infotable.xml",
+            "path": "raw/000092189526001402/infotable.xml",
+            "parsed_infoTable_rows": 26,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "valueact",
+      "zh": "价值行动",
+      "en": "ValueAct Holdings, L.P.",
+      "person": "Jeffrey Ubben / Mason Morfit",
+      "type": "activist",
+      "group": "activist",
+      "existing": true,
+      "cik": "0001418814",
+      "domain": "valueact.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001418814-26-000002",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 18,
+          "parsed_infoTable_rows": 18,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 5712466529,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1418814/000141881426000002/primary_doc.xml",
+            "path": "raw/000141881426000002/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "vac13f51526.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1418814/000141881426000002/vac13f51526.xml",
+            "path": "raw/000141881426000002/vac13f51526.xml",
+            "parsed_infoTable_rows": 18,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "ark",
+      "zh": "ARK投资",
+      "en": "ARK Investment Management LLC",
+      "person": "Cathie Wood",
+      "type": "star",
+      "group": "star",
+      "existing": true,
+      "cik": "0001697748",
+      "domain": "ark-funds.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-059240",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-12",
+          "row_count": 182,
+          "parsed_infoTable_rows": 182,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 12859485476,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926059240/primary_doc.xml",
+            "path": "raw/000110465926059240/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926059240/infotable.xml",
+            "path": "raw/000110465926059240/infotable.xml",
+            "parsed_infoTable_rows": 182,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "oaktree",
+      "zh": "橡树资本",
+      "en": "OAKTREE CAPITAL MANAGEMENT LP",
+      "person": "Howard Marks",
+      "type": "value",
+      "group": "value",
+      "existing": true,
+      "cik": "0000949509",
+      "domain": "oaktreecapital.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000949509-26-000002",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 142,
+          "parsed_infoTable_rows": 142,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 6284997721,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000002/primary_doc.xml",
+            "path": "raw/000094950926000002/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13F_OCMLP_1Q2026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000002/13F_OCMLP_1Q2026.xml",
+            "path": "raw/000094950926000002/13F_OCMLP_1Q2026.xml",
+            "parsed_infoTable_rows": 142,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR/A",
+          "accession": "0000949509-26-000003",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-19",
+          "row_count": 142,
+          "parsed_infoTable_rows": 142,
+          "huge": false,
+          "amendment_kind": "restatement",
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 6490931890,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000003/primary_doc.xml",
+            "path": "raw/000094950926000003/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13F_OCMLP_1Q2026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000003/13F_OCMLP_1Q2026.xml",
+            "path": "raw/000094950926000003/13F_OCMLP_1Q2026.xml",
+            "parsed_infoTable_rows": 142,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR/A",
+          "accession": "0000949509-26-000004",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-20",
+          "row_count": 147,
+          "parsed_infoTable_rows": 147,
+          "huge": false,
+          "amendment_kind": "restatement",
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 6557119230,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000004/primary_doc.xml",
+            "path": "raw/000094950926000004/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13F_OCMLP_1Q2026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/949509/000094950926000004/13F_OCMLP_1Q2026.xml",
+            "path": "raw/000094950926000004/13F_OCMLP_1Q2026.xml",
+            "parsed_infoTable_rows": 147,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "himalaya",
+      "zh": "喜马拉雅资本",
+      "en": "Himalaya Capital Management LLC",
+      "person": "Li Lu",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001709323",
+      "domain": "himcap.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0002043585-26-000022",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 8,
+          "parsed_infoTable_rows": 8,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 3702921098,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/primary_doc.xml",
+            "path": "raw/000204358526000022/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13fhciq226.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/13fhciq226.xml",
+            "path": "raw/000204358526000022/13fhciq226.xml",
+            "parsed_infoTable_rows": 8,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0002043585-26-000013",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 14,
+          "parsed_infoTable_rows": 14,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 3201226867,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000013/primary_doc.xml",
+            "path": "raw/000204358526000013/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13fhciq126.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000013/13fhciq126.xml",
+            "path": "raw/000204358526000013/13fhciq126.xml",
+            "parsed_infoTable_rows": 14,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "trian",
+      "zh": "特里安",
+      "en": "TRIAN FUND MANAGEMENT, L.P.",
+      "person": "Nelson Peltz",
+      "type": "activist",
+      "group": "star",
+      "existing": false,
+      "cik": "0001345471",
+      "domain": "trianpartners.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001345471-26-000035",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-12",
+          "row_count": 9,
+          "parsed_infoTable_rows": 9,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 4230905202,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1345471/000134547126000035/primary_doc.xml",
+            "path": "raw/000134547126000035/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Q22026-tfmlp-info-table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1345471/000134547126000035/Q22026-tfmlp-info-table.xml",
+            "path": "raw/000134547126000035/Q22026-tfmlp-info-table.xml",
+            "parsed_infoTable_rows": 9,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001345471-26-000026",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 9,
+          "parsed_infoTable_rows": 9,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 3859778188,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1345471/000134547126000026/primary_doc.xml",
+            "path": "raw/000134547126000026/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Q12026-tfmlp-info-table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1345471/000134547126000026/Q12026-tfmlp-info-table.xml",
+            "path": "raw/000134547126000026/Q12026-tfmlp-info-table.xml",
+            "parsed_infoTable_rows": 9,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "greenlight",
+      "zh": "绿光资本",
+      "en": "DME Capital Management, LP",
+      "person": "David Einhorn",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001489933",
+      "domain": "greenlightcapital.com",
+      "website_from_edgar": null,
+      "note": "Einhorn 当前 13F-HR 申报主体是 DME Capital Management, LP（CIK 0001489933）。GREENLIGHT CAPITAL INC（CIK 0001079114）最近一期 13F-HR 为 2023-12-31。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001172661-26-003786",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 95,
+          "parsed_infoTable_rows": 95,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3908853490,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1489933/000117266126003786/primary_doc.xml",
+            "path": "raw/000117266126003786/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1489933/000117266126003786/infotable.xml",
+            "path": "raw/000117266126003786/infotable.xml",
+            "parsed_infoTable_rows": 95,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001172661-26-002341",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 92,
+          "parsed_infoTable_rows": 92,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3190735190,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1489933/000117266126002341/primary_doc.xml",
+            "path": "raw/000117266126002341/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1489933/000117266126002341/infotable.xml",
+            "path": "raw/000117266126002341/infotable.xml",
+            "parsed_infoTable_rows": 92,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "altimeter",
+      "zh": "测高仪资本",
+      "en": "Altimeter Capital Management, LP",
+      "person": "Brad Gerstner",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001541617",
+      "domain": "altimeter.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001541617-26-000008",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 20,
+          "parsed_infoTable_rows": 20,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 9829676383,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/primary_doc.xml",
+            "path": "raw/000154161726000008/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "2026altimeterq2.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1541617/000154161726000008/2026altimeterq2.xml",
+            "path": "raw/000154161726000008/2026altimeterq2.xml",
+            "parsed_infoTable_rows": 20,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001541617-26-000006",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 13,
+          "parsed_infoTable_rows": 13,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 5699287719,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/primary_doc.xml",
+            "path": "raw/000154161726000006/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Q12613FvF.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1541617/000154161726000006/Q12613FvF.xml",
+            "path": "raw/000154161726000006/Q12613FvF.xml",
+            "parsed_infoTable_rows": 13,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "situational-awareness",
+      "zh": "情境感知",
+      "en": "Situational Awareness LP",
+      "person": "Leopold Aschenbrenner",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0002045724",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000935836-26-000418",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 26,
+          "parsed_infoTable_rows": 26,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 20242292228,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2045724/000093583626000418/primary_doc.xml",
+            "path": "raw/000093583626000418/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2045724/000093583626000418/form13fInfoTable.xml",
+            "path": "raw/000093583626000418/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 26,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0002045724-26-000008",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-18",
+          "row_count": 42,
+          "parsed_infoTable_rows": 42,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 13676657577,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/primary_doc.xml",
+            "path": "raw/000204572426000008/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "salp13fq1xml.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/2045724/000204572426000008/salp13fq1xml.xml",
+            "path": "raw/000204572426000008/salp13fq1xml.xml",
+            "parsed_infoTable_rows": 42,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "gotham",
+      "zh": "哥谭资产",
+      "en": "Gotham Asset Management, LLC",
+      "person": "Joel Greenblatt",
+      "type": "value",
+      "group": "star",
+      "existing": false,
+      "cik": "0001510387",
+      "domain": "gothamfunds.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001398344-26-014644",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 1791,
+          "parsed_infoTable_rows": 1791,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 42963515885,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510387/000139834426014644/primary_doc.xml",
+            "path": "raw/000139834426014644/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "fp0099921-6_13fhr-table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510387/000139834426014644/fp0099921-6_13fhr-table.xml",
+            "path": "raw/000139834426014644/fp0099921-6_13fhr-table.xml",
+            "parsed_infoTable_rows": 1791,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001398344-26-009299",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 1749,
+          "parsed_infoTable_rows": 1749,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 32652425993,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510387/000139834426009299/primary_doc.xml",
+            "path": "raw/000139834426009299/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "fp0098412-6_13fhr-table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510387/000139834426009299/fp0098412-6_13fhr-table.xml",
+            "path": "raw/000139834426009299/fp0098412-6_13fhr-table.xml",
+            "parsed_infoTable_rows": 1749,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "akre",
+      "zh": "阿克尔资本",
+      "en": "AKRE CAPITAL MANAGEMENT LLC",
+      "person": "Chuck Akre / John Neff",
+      "type": "value",
+      "group": "star",
+      "existing": false,
+      "cik": "0001112520",
+      "domain": "akrecapital.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001112520-26-000014",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 20,
+          "parsed_infoTable_rows": 20,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 5122536308,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000014/primary_doc.xml",
+            "path": "raw/000111252026000014/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000014/infotable.xml",
+            "path": "raw/000111252026000014/infotable.xml",
+            "parsed_infoTable_rows": 20,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001112520-26-000009",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 20,
+          "parsed_infoTable_rows": 20,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 6134537825,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000009/primary_doc.xml",
+            "path": "raw/000111252026000009/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000009/infotable.xml",
+            "path": "raw/000111252026000009/infotable.xml",
+            "parsed_infoTable_rows": 20,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "markel",
+      "zh": "马克尔集团",
+      "en": "MARKEL GROUP INC.",
+      "person": "Tom Gayner",
+      "type": "value",
+      "group": "star",
+      "existing": false,
+      "cik": "0001096343",
+      "domain": "markel.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001096343-26-000065",
+          "period": "2026-06-30",
+          "filingDate": "2026-07-31",
+          "row_count": 205,
+          "parsed_infoTable_rows": 205,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 13130490727,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000065/primary_doc.xml",
+            "path": "raw/000109634326000065/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "information_table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000065/information_table.xml",
+            "path": "raw/000109634326000065/information_table.xml",
+            "parsed_infoTable_rows": 205,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001096343-26-000044",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-01",
+          "row_count": 205,
+          "parsed_infoTable_rows": 205,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 11938885174,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000044/primary_doc.xml",
+            "path": "raw/000109634326000044/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "information_table.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1096343/000109634326000044/information_table.xml",
+            "path": "raw/000109634326000044/information_table.xml",
+            "parsed_infoTable_rows": 205,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "fundsmith",
+      "zh": "Fundsmith",
+      "en": "Fundsmith LLP",
+      "person": "Terry Smith",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001569205",
+      "domain": "fundsmith.co.uk",
+      "website_from_edgar": null,
+      "note": "名册使用 Fundsmith LLP（CIK 0001569205）。姐妹主体 FUNDSMITH INVESTMENT SERVICES LTD.（CIK 0001868537）同一报告期也提交 13F-HR，未合并。 Sister entity FUNDSMITH INVESTMENT SERVICES LTD. CIK 0001868537 also files 13F-HR for the same periods; roster uses Fundsmith LLP.",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001569205-26-000012",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 41,
+          "parsed_infoTable_rows": 41,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 13648923682,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/primary_doc.xml",
+            "path": "raw/000156920526000012/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "FLLPq22026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1569205/000156920526000012/FLLPq22026.xml",
+            "path": "raw/000156920526000012/FLLPq22026.xml",
+            "parsed_infoTable_rows": 41,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001569205-26-000005",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 34,
+          "parsed_infoTable_rows": 34,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 12827766987,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1569205/000156920526000005/primary_doc.xml",
+            "path": "raw/000156920526000005/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "FLLPq12026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1569205/000156920526000005/FLLPq12026.xml",
+            "path": "raw/000156920526000005/FLLPq12026.xml",
+            "parsed_infoTable_rows": 34,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "pabrai",
+      "zh": "帕布莱投资",
+      "en": "Dalal Street, LLC",
+      "person": "Mohnish Pabrai",
+      "type": "value",
+      "group": "star",
+      "existing": false,
+      "cik": "0001549575",
+      "domain": "pabraifunds.com",
+      "website_from_edgar": null,
+      "note": "13F-HR 申报主体为 Dalal Street, LLC（CIK 0001549575），不是个人名 PABRAI MOHNISH。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001549575-26-000015",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-13",
+          "row_count": 4,
+          "parsed_infoTable_rows": 4,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 326749980,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000015/primary_doc.xml",
+            "path": "raw/000154957526000015/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000015/infotable.xml",
+            "path": "raw/000154957526000015/infotable.xml",
+            "parsed_infoTable_rows": 4,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001549575-26-000009",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 3,
+          "parsed_infoTable_rows": 3,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 422885142,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000009/primary_doc.xml",
+            "path": "raw/000154957526000009/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000009/infotable.xml",
+            "path": "raw/000154957526000009/infotable.xml",
+            "parsed_infoTable_rows": 3,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "gates-foundation-trust",
+      "zh": "盖茨基金会信托",
+      "en": "GATES FOUNDATION TRUST",
+      "person": "Bill Gates",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001166559",
+      "domain": "gatesfoundation.org",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-097175",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 24,
+          "parsed_infoTable_rows": 24,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 34424791932,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926097175/primary_doc.xml",
+            "path": "raw/000110465926097175/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926097175/infotable.xml",
+            "path": "raw/000110465926097175/infotable.xml",
+            "parsed_infoTable_rows": 24,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-062592",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 22,
+          "parsed_infoTable_rows": 22,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 31665505891,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926062592/primary_doc.xml",
+            "path": "raw/000110465926062592/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926062592/infotable.xml",
+            "path": "raw/000110465926062592/infotable.xml",
+            "parsed_infoTable_rows": 22,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "tci",
+      "zh": "TCI基金",
+      "en": "TCI Fund Management Ltd",
+      "person": "Christopher Hohn",
+      "type": "activist",
+      "group": "star",
+      "existing": false,
+      "cik": "0001647251",
+      "domain": "tcifund.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001647251-26-000007",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 11,
+          "parsed_infoTable_rows": 11,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 52769884406,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000007/primary_doc.xml",
+            "path": "raw/000164725126000007/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000007/Form13fInfoTable.xml",
+            "path": "raw/000164725126000007/Form13fInfoTable.xml",
+            "parsed_infoTable_rows": 11,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001647251-26-000004",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 10,
+          "parsed_infoTable_rows": 10,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 45170870798,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000004/primary_doc.xml",
+            "path": "raw/000164725126000004/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000004/Form13fInfoTable.xml",
+            "path": "raw/000164725126000004/Form13fInfoTable.xml",
+            "parsed_infoTable_rows": 10,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "maverick",
+      "zh": "牛仔资本",
+      "en": "MAVERICK CAPITAL LTD",
+      "person": "Lee Ainslie",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0000934639",
+      "domain": "maverickcap.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000947871-26-000793",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 179,
+          "parsed_infoTable_rows": 179,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 11320923736,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/934639/000094787126000793/primary_doc.xml",
+            "path": "raw/000094787126000793/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/934639/000094787126000793/infotable.xml",
+            "path": "raw/000094787126000793/infotable.xml",
+            "parsed_infoTable_rows": 179,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0000947871-26-000553",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 241,
+          "parsed_infoTable_rows": 241,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 8670232588,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/934639/000094787126000553/primary_doc.xml",
+            "path": "raw/000094787126000553/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/934639/000094787126000553/infotable.xml",
+            "path": "raw/000094787126000553/infotable.xml",
+            "parsed_infoTable_rows": 241,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "d1-capital",
+      "zh": "D1资本",
+      "en": "D1 Capital Partners L.P.",
+      "person": "Daniel Sundheim",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001747057",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001172661-26-003662",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 55,
+          "parsed_infoTable_rows": 55,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 34783267943,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747057/000117266126003662/primary_doc.xml",
+            "path": "raw/000117266126003662/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747057/000117266126003662/infotable.xml",
+            "path": "raw/000117266126003662/infotable.xml",
+            "parsed_infoTable_rows": 55,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001172661-26-002178",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 44,
+          "parsed_infoTable_rows": 44,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 11232639222,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747057/000117266126002178/primary_doc.xml",
+            "path": "raw/000117266126002178/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747057/000117266126002178/infotable.xml",
+            "path": "raw/000117266126002178/infotable.xml",
+            "parsed_infoTable_rows": 44,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "d1cap.com currently shows a Rebrandly parking page"
+    },
+    {
+      "id": "paulson",
+      "zh": "保尔森",
+      "en": "PAULSON & CO. INC.",
+      "person": "John Paulson",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001035674",
+      "domain": "paulsonco.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001013594-26-000913",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 8,
+          "parsed_infoTable_rows": 8,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 2575691752,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000913/primary_doc.xml",
+            "path": "raw/000101359426000913/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000913/form13fInfoTable.xml",
+            "path": "raw/000101359426000913/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 8,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001013594-26-000611",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 9,
+          "parsed_infoTable_rows": 9,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3111613398,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000611/primary_doc.xml",
+            "path": "raw/000101359426000611/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1035674/000101359426000611/form13fInfoTable.xml",
+            "path": "raw/000101359426000611/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 9,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "glenview",
+      "zh": "格伦维尤",
+      "en": "GLENVIEW CAPITAL MANAGEMENT, LLC",
+      "person": "Larry Robbins",
+      "type": "star",
+      "group": "star",
+      "existing": false,
+      "cik": "0001138995",
+      "domain": null,
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000905148-26-003712",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 45,
+          "parsed_infoTable_rows": 45,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 5491647047,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1138995/000090514826003712/primary_doc.xml",
+            "path": "raw/000090514826003712/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1138995/000090514826003712/form13fInfoTable.xml",
+            "path": "raw/000090514826003712/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 45,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0000905148-26-002354",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 44,
+          "parsed_infoTable_rows": 44,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3983379688,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1138995/000090514826002354/primary_doc.xml",
+            "path": "raw/000090514826002354/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1138995/000090514826002354/form13fInfoTable.xml",
+            "path": "raw/000090514826002354/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 44,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "glenviewcapital.com has no DNS A record this turn"
+    },
+    {
+      "id": "saba",
+      "zh": "萨巴资本",
+      "en": "Saba Capital Management, L.P.",
+      "person": "Boaz Weinstein",
+      "type": "activist",
+      "group": "star",
+      "existing": false,
+      "cik": "0001510281",
+      "domain": "sabacapital.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001062993-26-004420",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 400,
+          "parsed_infoTable_rows": 400,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 3897562072,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510281/000106299326004420/primary_doc.xml",
+            "path": "raw/000106299326004420/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510281/000106299326004420/form13fInfoTable.xml",
+            "path": "raw/000106299326004420/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 400,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001062993-26-002707",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 390,
+          "parsed_infoTable_rows": 390,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 3619960374,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510281/000106299326002707/primary_doc.xml",
+            "path": "raw/000106299326002707/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1510281/000106299326002707/form13fInfoTable.xml",
+            "path": "raw/000106299326002707/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 390,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "norges",
+      "zh": "挪威央行投资管理公司",
+      "en": "NORGES BANK",
+      "person": "Nicolai Tangen",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001374170",
+      "domain": "nbim.no",
+      "website_from_edgar": null,
+      "note": "2026-03-31 primary_doc 标明 isConfidentialOmitted=true；公开 information table XML（Q1_2026_0.xml）仅 1 条 NA/000000000 占位行。tableEntryTotal 仍为 1507。2026-06-30 isConfidentialOmitted=false，信息表 1617 行与封面一致。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001374170-26-000069",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-12",
+          "row_count": 1617,
+          "parsed_infoTable_rows": 1617,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 1003234964718,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374170/000137417026000069/primary_doc.xml",
+            "path": "raw/000137417026000069/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Q2_2026.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374170/000137417026000069/Q2_2026.xml",
+            "path": "raw/000137417026000069/Q2_2026.xml",
+            "parsed_infoTable_rows": 1617,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001374170-26-000023",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-11",
+          "row_count": 1507,
+          "parsed_infoTable_rows": 1,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": true,
+          "tableValueTotal": 864690921985,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374170/000137417026000023/primary_doc.xml",
+            "path": "raw/000137417026000023/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "Q1_2026_0.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374170/000137417026000023/Q1_2026_0.xml",
+            "path": "raw/000137417026000023/Q1_2026_0.xml",
+            "parsed_infoTable_rows": 1,
+            "skipped": false
+          },
+          "notes": [
+            "public information table is a 1-row placeholder; confidential holdings omitted"
+          ]
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "temasek",
+      "zh": "淡马锡",
+      "en": "Temasek Holdings (Private) Ltd",
+      "person": "Dilhan Pillay Sandrasegara",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001021944",
+      "domain": "temasek.com.sg",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001021944-26-000013",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-07",
+          "row_count": 196,
+          "parsed_infoTable_rows": 196,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 37253810301,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1021944/000102194426000013/primary_doc.xml",
+            "path": "raw/000102194426000013/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13f_infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1021944/000102194426000013/form13f_infotable.xml",
+            "path": "raw/000102194426000013/form13f_infotable.xml",
+            "parsed_infoTable_rows": 196,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001021944-26-000011",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-12",
+          "row_count": 152,
+          "parsed_infoTable_rows": 152,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 30484854533,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1021944/000102194426000011/primary_doc.xml",
+            "path": "raw/000102194426000011/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13f_infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1021944/000102194426000011/form13f_infotable.xml",
+            "path": "raw/000102194426000011/form13f_infotable.xml",
+            "parsed_infoTable_rows": 152,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "cppib",
+      "zh": "加拿大养老金投资委员会",
+      "en": "CANADA PENSION PLAN INVESTMENT BOARD",
+      "person": "John Graham",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001283718",
+      "domain": "cppinvestments.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-097308",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 1694,
+          "parsed_infoTable_rows": 1694,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 180776675190,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1283718/000110465926097308/primary_doc.xml",
+            "path": "raw/000110465926097308/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1283718/000110465926097308/infoTable.xml",
+            "path": "raw/000110465926097308/infoTable.xml",
+            "parsed_infoTable_rows": 1694,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001104659-26-062533",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 1680,
+          "parsed_infoTable_rows": 1680,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 155030955991,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1283718/000110465926062533/primary_doc.xml",
+            "path": "raw/000110465926062533/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1283718/000110465926062533/infotable.xml",
+            "path": "raw/000110465926062533/infotable.xml",
+            "parsed_infoTable_rows": 1680,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS GET 返回 202"
+    },
+    {
+      "id": "otpp",
+      "zh": "安大略教师养老金",
+      "en": "ONTARIO TEACHERS PENSION PLAN BOARD",
+      "person": "Jo Taylor",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0000937567",
+      "domain": "otpp.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001999371-26-017424",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-07",
+          "row_count": 60,
+          "parsed_infoTable_rows": 60,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 15773025295,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/937567/000199937126017424/primary_doc.xml",
+            "path": "raw/000199937126017424/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/937567/000199937126017424/infotable.xml",
+            "path": "raw/000199937126017424/infotable.xml",
+            "parsed_infoTable_rows": 60,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001999371-26-010473",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-11",
+          "row_count": 162,
+          "parsed_infoTable_rows": 162,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 3458551298,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/937567/000199937126010473/primary_doc.xml",
+            "path": "raw/000199937126010473/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/937567/000199937126010473/infotable.xml",
+            "path": "raw/000199937126010473/infotable.xml",
+            "parsed_infoTable_rows": 162,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "pif",
+      "zh": "沙特公共投资基金",
+      "en": "PUBLIC INVESTMENT FUND",
+      "person": "Yasir Al-Rumayyan",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001767640",
+      "domain": "pif.gov.sa",
+      "website_from_edgar": null,
+      "note": "核实：PUBLIC INVESTMENT FUND（CIK 0001767640）封面地址 Riyadh。2026-03-31 另有 13F-HR/A restatement，未与原表合并。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001011438-26-000537",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 5,
+          "parsed_infoTable_rows": 5,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 37908748002,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000537/primary_doc.xml",
+            "path": "raw/000101143826000537/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000537/informationtable.xml",
+            "path": "raw/000101143826000537/informationtable.xml",
+            "parsed_infoTable_rows": 5,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001011438-26-000338",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 4,
+          "parsed_infoTable_rows": 4,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 12005605739,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000338/primary_doc.xml",
+            "path": "raw/000101143826000338/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000338/informationtable.xml",
+            "path": "raw/000101143826000338/informationtable.xml",
+            "parsed_infoTable_rows": 4,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR/A",
+          "accession": "0001011438-26-000536",
+          "period": "2026-03-31",
+          "filingDate": "2026-08-14",
+          "row_count": 4,
+          "parsed_infoTable_rows": 4,
+          "huge": false,
+          "amendment_kind": "restatement",
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 12005605739,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000536/primary_doc.xml",
+            "path": "raw/000101143826000536/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1767640/000101143826000536/informationtable.xml",
+            "path": "raw/000101143826000536/informationtable.xml",
+            "parsed_infoTable_rows": 4,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "HTTPS 主机存在，本次 GET 返回 403"
+    },
+    {
+      "id": "harvard",
+      "zh": "哈佛管理公司",
+      "en": "HARVARD MANAGEMENT CO INC",
+      "person": "Narv Narvekar",
+      "type": "endowment",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001082621",
+      "domain": "hmc.harvard.edu",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001193125-26-352412",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 19,
+          "parsed_infoTable_rows": 19,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 4263102872,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082621/000119312526352412/primary_doc.xml",
+            "path": "raw/000119312526352412/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "56904.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082621/000119312526352412/56904.xml",
+            "path": "raw/000119312526352412/56904.xml",
+            "parsed_infoTable_rows": 19,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001193125-26-226658",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 17,
+          "parsed_infoTable_rows": 17,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 1815664370,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082621/000119312526226658/primary_doc.xml",
+            "path": "raw/000119312526226658/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "53948.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082621/000119312526226658/53948.xml",
+            "path": "raw/000119312526226658/53948.xml",
+            "parsed_infoTable_rows": 17,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": [],
+      "domain_note": "hmc.harvard.edu timed out this turn; domain retained as the conventional HMC host"
+    },
+    {
+      "id": "mubadala",
+      "zh": "穆巴达拉",
+      "en": "Mubadala Investment Co PJSC",
+      "person": "Khaldoon Al Mubarak",
+      "type": "sovereign",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001704268",
+      "domain": "mubadala.com",
+      "website_from_edgar": null,
+      "note": "核实：Mubadala Investment Co PJSC（CIK 0001704268）有 13F-HR，封面地址 Abu Dhabi。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001140361-26-032980",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 72,
+          "parsed_infoTable_rows": 72,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 34771171317,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1704268/000114036126032980/primary_doc.xml",
+            "path": "raw/000114036126032980/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1704268/000114036126032980/informationtable.xml",
+            "path": "raw/000114036126032980/informationtable.xml",
+            "parsed_infoTable_rows": 72,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001140361-26-021535",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 72,
+          "parsed_infoTable_rows": 72,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 20491642156,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1704268/000114036126021535/primary_doc.xml",
+            "path": "raw/000114036126021535/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1704268/000114036126021535/informationtable.xml",
+            "path": "raw/000114036126021535/informationtable.xml",
+            "parsed_infoTable_rows": 72,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "calpers",
+      "zh": "加州公务员退休基金",
+      "en": "CALIFORNIA PUBLIC EMPLOYEES RETIREMENT SYSTEM",
+      "person": "Marcie Frost",
+      "type": "pension",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0000919079",
+      "domain": "calpers.ca.gov",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0000919079-26-000011",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 1061,
+          "parsed_infoTable_rows": 1061,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 177384494361,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/919079/000091907926000011/primary_doc.xml",
+            "path": "raw/000091907926000011/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/919079/000091907926000011/form13fInfoTable.xml",
+            "path": "raw/000091907926000011/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 1061,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0000919079-26-000006",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-06",
+          "row_count": 1064,
+          "parsed_infoTable_rows": 1064,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 162486869017,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/919079/000091907926000006/primary_doc.xml",
+            "path": "raw/000091907926000006/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/919079/000091907926000006/form13fInfoTable.xml",
+            "path": "raw/000091907926000006/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 1064,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "calstrs",
+      "zh": "加州教师退休基金",
+      "en": "CALIFORNIA STATE TEACHERS RETIREMENT SYSTEM",
+      "person": "Cassandra Lichnock",
+      "type": "pension",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001081019",
+      "domain": "calstrs.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001081019-26-000019",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-24",
+          "row_count": 3002,
+          "parsed_infoTable_rows": 3002,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 108615536242,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000019/primary_doc.xml",
+            "path": "raw/000108101926000019/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13f_0626formatted.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000019/13f_0626formatted.xml",
+            "path": "raw/000108101926000019/13f_0626formatted.xml",
+            "parsed_infoTable_rows": 3002,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR/A",
+          "accession": "0001081019-26-000020",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-24",
+          "row_count": 3001,
+          "parsed_infoTable_rows": 3002,
+          "huge": false,
+          "amendment_kind": "restatement",
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 108615536242,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000020/primary_doc.xml",
+            "path": "raw/000108101926000020/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13f_0626formatted.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000020/13f_0626formatted.xml",
+            "path": "raw/000108101926000020/13f_0626formatted.xml",
+            "parsed_infoTable_rows": 3002,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001081019-26-000007",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-18",
+          "row_count": 2925,
+          "parsed_infoTable_rows": 2925,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 94490983194,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000007/primary_doc.xml",
+            "path": "raw/000108101926000007/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "13f_0326formatted.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1081019/000108101926000007/13f_0326formatted.xml",
+            "path": "raw/000108101926000007/13f_0326formatted.xml",
+            "parsed_infoTable_rows": 2925,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "cdpq",
+      "zh": "魁北克储蓄投资集团",
+      "en": "CAISSE DE DEPOT ET PLACEMENT DU QUEBEC",
+      "person": "Charles Emond",
+      "type": "pension",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0000898286",
+      "domain": "cdpq.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001140361-26-033187",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 705,
+          "parsed_infoTable_rows": 705,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 70188386128,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/898286/000114036126033187/primary_doc.xml",
+            "path": "raw/000114036126033187/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/898286/000114036126033187/informationtable.xml",
+            "path": "raw/000114036126033187/informationtable.xml",
+            "parsed_infoTable_rows": 705,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001140361-26-021351",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 684,
+          "parsed_infoTable_rows": 684,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 62432772923,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/898286/000114036126021351/primary_doc.xml",
+            "path": "raw/000114036126021351/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "informationtable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/898286/000114036126021351/informationtable.xml",
+            "path": "raw/000114036126021351/informationtable.xml",
+            "parsed_infoTable_rows": 684,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "aqr",
+      "zh": "AQR资本",
+      "en": "AQR CAPITAL MANAGEMENT LLC",
+      "person": "Cliff Asness",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001167557",
+      "domain": "aqr.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001167557-26-000226",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 21077,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 286847511937,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000226/primary_doc.xml",
+            "path": "raw/000116755726000226/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000226/infotable.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 21077 > 5000; skipped download"
+          ]
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001167557-26-000115",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 20832,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 218373976700,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000115/primary_doc.xml",
+            "path": "raw/000116755726000115/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infotable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000115/infotable.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 20832 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "jane-street",
+      "zh": "简街",
+      "en": "JANE STREET GROUP, LLC",
+      "person": null,
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001595888",
+      "domain": "janestreet.com",
+      "website_from_edgar": null,
+      "note": "核实后的 13F-HR 主体为 JANE STREET GROUP, LLC（CIK 0001595888）。两期信息表均 >5000 行，只保留元数据。",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001595888-26-000108",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 14718,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 1205633745715,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000108/primary_doc.xml",
+            "path": "raw/000159588826000108/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "q2-2026-13f-hr.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000108/q2-2026-13f-hr.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 14718 > 5000; skipped download"
+          ]
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001595888-26-000043",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-12",
+          "row_count": 19058,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 777217056890,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000043/primary_doc.xml",
+            "path": "raw/000159588826000043/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "q1_2026-13f.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000043/q1_2026-13f.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 19058 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "susquehanna",
+      "zh": "萨斯奎哈纳",
+      "en": "SUSQUEHANNA INTERNATIONAL GROUP, LLP",
+      "person": "Jeff Yass",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001446194",
+      "domain": "sig.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001446194-26-000008",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 15205,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 1283997737803,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000008/primary_doc.xml",
+            "path": "raw/000144619426000008/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "file.XML",
+            "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000008/file.XML",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 15205 > 5000; skipped download"
+          ]
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001446194-26-000005",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 14878,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 893325416442,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000005/primary_doc.xml",
+            "path": "raw/000144619426000005/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "file.XML",
+            "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000005/file.XML",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 14878 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "balyasny",
+      "zh": "巴利亚斯尼",
+      "en": "BALYASNY ASSET MANAGEMENT L.P.",
+      "person": "Dmitry Balyasny",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001218710",
+      "domain": "bamfunds.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001193125-26-351940",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 3194,
+          "parsed_infoTable_rows": 3194,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 80215403914,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1218710/000119312526351940/primary_doc.xml",
+            "path": "raw/000119312526351940/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "57127.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1218710/000119312526351940/57127.xml",
+            "path": "raw/000119312526351940/57127.xml",
+            "parsed_infoTable_rows": 3194,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001193125-26-226359",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 3117,
+          "parsed_infoTable_rows": 3117,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F COMBINATION REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 77093441351,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1218710/000119312526226359/primary_doc.xml",
+            "path": "raw/000119312526226359/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "53979.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1218710/000119312526226359/53979.xml",
+            "path": "raw/000119312526226359/53979.xml",
+            "parsed_infoTable_rows": 3117,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "exoduspoint",
+      "zh": "出埃及点",
+      "en": "ExodusPoint Capital Management, LP",
+      "person": "Michael Gelband",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001736225",
+      "domain": "exoduspoint.com",
+      "website_from_edgar": null,
+      "note": null,
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001736225-26-000010",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 1510,
+          "parsed_infoTable_rows": 1510,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 15530459904,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000010/primary_doc.xml",
+            "path": "raw/000173622526000010/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infoTable_2026_2.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000010/infoTable_2026_2.xml",
+            "path": "raw/000173622526000010/infoTable_2026_2.xml",
+            "parsed_infoTable_rows": 1510,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001736225-26-000006",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-14",
+          "row_count": 1454,
+          "parsed_infoTable_rows": 1454,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 12396161314,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000006/primary_doc.xml",
+            "path": "raw/000173622526000006/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infoTable_2026_1.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000006/infoTable_2026_1.xml",
+            "path": "raw/000173622526000006/infoTable_2026_1.xml",
+            "parsed_infoTable_rows": 1454,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR/A",
+          "accession": "0001736225-26-000007",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 41,
+          "parsed_infoTable_rows": 41,
+          "huge": false,
+          "amendment_kind": "new_holdings",
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": null,
+          "tableValueTotal": 196247520,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000007/primary_doc.xml",
+            "path": "raw/000173622526000007/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "infoTable_2026_1.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1736225/000173622526000007/infoTable_2026_1.xml",
+            "path": "raw/000173622526000007/infoTable_2026_1.xml",
+            "parsed_infoTable_rows": 41,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "omers",
+      "zh": "安大略市政雇员退休系统",
+      "en": "OMERS ADMINISTRATION Corp",
+      "person": "David Murray",
+      "type": "pension",
+      "group": "sovereign",
+      "existing": false,
+      "cik": "0001053321",
+      "domain": "omers.com",
+      "website_from_edgar": null,
+      "note": "GIC Private Ltd（CIK 0000936828）近期 submissions 无 13F-HR，以 OMERS Administration Corp 作为同组养老金替代。 GIC Private Ltd has no 13F-HR; OMERS is a substitute pension 13F filer.",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001062993-26-004250",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-13",
+          "row_count": 906,
+          "parsed_infoTable_rows": 906,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 16714372862,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1053321/000106299326004250/primary_doc.xml",
+            "path": "raw/000106299326004250/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1053321/000106299326004250/form13fInfoTable.xml",
+            "path": "raw/000106299326004250/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 906,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001062993-26-002689",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 1096,
+          "parsed_infoTable_rows": 1096,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 15551780152,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1053321/000106299326002689/primary_doc.xml",
+            "path": "raw/000106299326002689/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "form13fInfoTable.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1053321/000106299326002689/form13fInfoTable.xml",
+            "path": "raw/000106299326002689/form13fInfoTable.xml",
+            "parsed_infoTable_rows": 1096,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "squarepoint",
+      "zh": "Squarepoint",
+      "en": "Squarepoint Ops LLC",
+      "person": null,
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001642575",
+      "domain": "squarepoint-capital.com",
+      "website_from_edgar": null,
+      "note": "13F-HR 主体是 Squarepoint Ops LLC。Squarepoint Capital LLP 同期只交 13F-NT。 13F-HR filer is Squarepoint Ops LLC; Squarepoint Capital LLP files 13F-NT.",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001642575-26-000009",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-14",
+          "row_count": 4324,
+          "parsed_infoTable_rows": 4324,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 90523840704,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1642575/000164257526000009/primary_doc.xml",
+            "path": "raw/000164257526000009/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "SQPTQ213F.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1642575/000164257526000009/SQPTQ213F.xml",
+            "path": "raw/000164257526000009/SQPTQ213F.xml",
+            "parsed_infoTable_rows": 4324,
+            "skipped": false
+          },
+          "notes": []
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001642575-26-000007",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 4190,
+          "parsed_infoTable_rows": 4190,
+          "huge": false,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 85117008073,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1642575/000164257526000007/primary_doc.xml",
+            "path": "raw/000164257526000007/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "sqpt13f.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1642575/000164257526000007/sqpt13f.xml",
+            "path": "raw/000164257526000007/sqpt13f.xml",
+            "parsed_infoTable_rows": 4190,
+            "skipped": false
+          },
+          "notes": []
+        }
+      ],
+      "missing_periods": []
+    },
+    {
+      "id": "marshall-wace",
+      "zh": "马歇尔·韦斯",
+      "en": "MARSHALL WACE, LLP",
+      "person": "Paul Marshall / Ian Wace",
+      "type": "quant-multistrat",
+      "group": "quant-multistrat",
+      "existing": false,
+      "cik": "0001318757",
+      "domain": "mwam.com",
+      "website_from_edgar": null,
+      "note": "13F-HR 主体是 MARSHALL WACE, LLP（CIK 0001318757）。 CIK 0001318757 MARSHALL WACE, LLP is the 13F-HR filer.",
+      "filings": [
+        {
+          "form": "13F-HR",
+          "accession": "0001318757-26-000010",
+          "period": "2026-06-30",
+          "filingDate": "2026-08-13",
+          "row_count": 6550,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 126697578778,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000010/primary_doc.xml",
+            "path": "raw/000131875726000010/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "mwllp2q26.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000010/mwllp2q26.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 6550 > 5000; skipped download"
+          ]
+        },
+        {
+          "form": "13F-HR",
+          "accession": "0001318757-26-000005",
+          "period": "2026-03-31",
+          "filingDate": "2026-05-15",
+          "row_count": 6623,
+          "parsed_infoTable_rows": null,
+          "huge": true,
+          "amendment_kind": null,
+          "reportType": "13F HOLDINGS REPORT",
+          "isConfidentialOmitted": false,
+          "tableValueTotal": 100406703814,
+          "primary_doc": {
+            "filename": "primary_doc.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000005/primary_doc.xml",
+            "path": "raw/000131875726000005/primary_doc.xml"
+          },
+          "information_table": {
+            "filename": "mwllp1q26V2.xml",
+            "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000005/mwllp1q26V2.xml",
+            "skipped": true,
+            "reason": "huge"
+          },
+          "notes": [
+            "information table 6623 > 5000; skipped download"
+          ]
+        }
+      ],
+      "missing_periods": []
+    }
+  ]
+}

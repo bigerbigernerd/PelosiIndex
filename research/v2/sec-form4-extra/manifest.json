@@ -1,0 +1,137 @@
+{
+ "retrieved_at": "2026-10-04T18:44:39.724185+00:00",
+ "window": "filingDate>=2025-07-01, max 8",
+ "people": [
+  {
+   "id": "larry-page",
+   "filings": []
+  },
+  {
+   "id": "larry-ellison",
+   "filings": [
+    {
+     "accession": "0001341439-25-000066",
+     "form": "4",
+     "filingDate": "2025-10-27",
+     "reportDate": "2025-10-23",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/901999/000134143925000066/form4.xml",
+     "local_path": "../../sec-form4-extra/000134143925000066/form4.xml",
+     "sha256": "52c78830ed36c1058e2babefc6317164a5e81502d32f03923c6ce7f3d0806568"
+    },
+    {
+     "accession": "0001127602-25-019335",
+     "form": "4",
+     "filingDate": "2025-07-17",
+     "reportDate": "2025-07-15",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/901999/000112760225019335/form4.xml",
+     "local_path": "../../sec-form4-extra/000112760225019335/form4.xml",
+     "sha256": "4448a50c8c322ad505474bc299de6bd7422798c675710aa76766fc197718baa4"
+    },
+    {
+     "accession": "0001127602-25-019097",
+     "form": "4",
+     "filingDate": "2025-07-11",
+     "reportDate": "2025-07-09",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/901999/000112760225019097/form4.xml",
+     "local_path": "../../sec-form4-extra/000112760225019097/form4.xml",
+     "sha256": "bcd4bc899a1bc452fa27478036cc3cdf5a92becece0097bc42bbc80fefd13a74"
+    }
+   ]
+  },
+  {
+   "id": "peter-thiel",
+   "filings": [
+    {
+     "accession": "0001211060-26-000007",
+     "form": "4",
+     "filingDate": "2026-03-04",
+     "reportDate": "2026-03-02",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000007/form4-03042026_090310.xml",
+     "local_path": "../../sec-form4-extra/000121106026000007/form4-03042026_090310.xml",
+     "sha256": "c4f4d0e82192fbac22a2bc81046a902fc6941752374aff05c686b3e4b7c190e7"
+    }
+   ]
+  },
+  {
+   "id": "brian-armstrong",
+   "filings": [
+    {
+     "accession": "0001851492-26-000001",
+     "form": "4",
+     "filingDate": "2026-01-07",
+     "reportDate": "2026-01-05",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000185149226000001/wk-form4_1767822506.xml",
+     "local_path": "../../sec-form4-extra/000185149226000001/wk-form4_1767822506.xml",
+     "sha256": "823e420435c7b114df170a01ffbbdc2c43f4ad9b3bf40414a469936f4cb49d64"
+    },
+    {
+     "accession": "0001679788-25-000249",
+     "form": "4",
+     "filingDate": "2025-12-23",
+     "reportDate": "2025-12-22",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000249/wk-form4_1766524478.xml",
+     "local_path": "../../sec-form4-extra/000167978825000249/wk-form4_1766524478.xml",
+     "sha256": "734a3b61e782f24eb7d3e17e9134192a0dd7fdb29e242f6ab836f4d044ea370c"
+    },
+    {
+     "accession": "0001679788-25-000243",
+     "form": "4",
+     "filingDate": "2025-12-10",
+     "reportDate": "2025-12-08",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000243/wk-form4_1765402178.xml",
+     "local_path": "../../sec-form4-extra/000167978825000243/wk-form4_1765402178.xml",
+     "sha256": "a075e906b22ad06ac61d9ecd567ae395c329e7df89a0e1916a14be100b17ded8"
+    },
+    {
+     "accession": "0001679788-25-000242",
+     "form": "4",
+     "filingDate": "2025-12-10",
+     "reportDate": "2025-11-26",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000242/wk-form4_1765402136.xml",
+     "local_path": "../../sec-form4-extra/000167978825000242/wk-form4_1765402136.xml",
+     "sha256": "7a94af650e2e1ce932fd1308a43a57817784864c85423f8abeee9a5947bd05af"
+    },
+    {
+     "accession": "0001679788-25-000222",
+     "form": "4",
+     "filingDate": "2025-11-19",
+     "reportDate": "2025-11-17",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000222/wk-form4_1763587707.xml",
+     "local_path": "../../sec-form4-extra/000167978825000222/wk-form4_1763587707.xml",
+     "sha256": "ab29d04a79dcfee75b3489561c6fe0ec7567502d55258be0f669b869b9b350da"
+    },
+    {
+     "accession": "0001679788-25-000221",
+     "form": "4",
+     "filingDate": "2025-11-14",
+     "reportDate": "2025-11-10",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000221/wk-form4_1763156151.xml",
+     "local_path": "../../sec-form4-extra/000167978825000221/wk-form4_1763156151.xml",
+     "sha256": "8b49c95cc40e1402b3e515f0dbd8483787efb727e2b684745fcad96d4142b669"
+    },
+    {
+     "accession": "0001679788-25-000209",
+     "form": "4",
+     "filingDate": "2025-11-05",
+     "reportDate": "2025-11-03",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000209/wk-form4_1762380310.xml",
+     "local_path": "../../sec-form4-extra/000167978825000209/wk-form4_1762380310.xml",
+     "sha256": "c5edf31a271f77f0cb696c7b2d802675df4d648b6169d3c41ddbf3562d4a7631"
+    },
+    {
+     "accession": "0001679788-25-000200",
+     "form": "4",
+     "filingDate": "2025-10-15",
+     "reportDate": "2025-10-13",
+     "xml_url": "https://www.sec.gov/Archives/edgar/data/1851492/000167978825000200/wk-form4_1760559189.xml",
+     "local_path": "../../sec-form4-extra/000167978825000200/wk-form4_1760559189.xml",
+     "sha256": "1cc48c1a86c8c5c9157f63d3dda2fe91a8acbb6b562aa498ef4d2f915e0d3a4f"
+    }
+   ]
+  },
+  {
+   "id": "michael-saylor",
+   "filings": []
+  }
+ ]
+}

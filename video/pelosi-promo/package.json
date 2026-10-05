@@ -1,0 +1,37 @@
+{
+  "name": "pelosi-promo",
+  "version": "1.0.0",
+  "description": "Editable English and Chinese Pelosi Index promos with instrumental score and English voiceover",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/fonts": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.532",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "@remotion/eslint-config-flat": {
+      "typescript-eslint": "8.71.0"
+    }
+  },
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "check": "tsc --noEmit",
+    "check:frames": "node scripts/check-english-frames.mjs"
+  }
+}

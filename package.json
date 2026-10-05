@@ -1,0 +1,16 @@
+{
+  "name": "pelosi-index",
+  "version": "2.0.0",
+  "private": true,
+  "workspaces": ["web"],
+  "scripts": {
+    "dev": "npm run dev --workspace=pelosi-index-web",
+    "build": "npm run build --workspace=pelosi-index-web",
+    "preview": "npm run preview --workspace=pelosi-index-web",
+    "data": "npm run data --workspace=pelosi-index-web",
+    "data:parse": "npm run data:parse --workspace=pelosi-index-web",
+    "test": "python3 scripts/verify_snapshot.py && python3 -m unittest discover -s tests -v",
+    "check:release": "python3 scripts/check_release.py"
+  },
+  "engines": {"node": ">=20.19.0"}
+}

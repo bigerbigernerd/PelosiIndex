@@ -1,0 +1,25 @@
+{
+  "name": "pelosi-index-web",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5190 --strictPort",
+    "build": "vite build && node scripts/prepare-public.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 5191",
+    "data": "python3 ../research/v2/pipeline/build_graph.py && python3 scripts/build-skills.py",
+    "data:parse": "python3 ../scripts/fetch_sources.py --verify-only && python3 ../research/v2/pipeline/parse_form4.py && python3 ../research/v2/pipeline/parse_ptr.py && python3 ../research/v2/pipeline/parse_13f.py",
+    "data:atlas": "python3 ../research/v2/pipeline/build_atlas.py && python3 ../research/v2/pipeline/build_graph.py"
+  },
+  "dependencies": {
+    "d3-force": "^3.0.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@fontsource/jetbrains-mono": "^5.1.0",
+    "@vitejs/plugin-react": "5.0.4",
+    "playwright": "1.63.0",
+    "vite": "6.4.3"
+  }
+}

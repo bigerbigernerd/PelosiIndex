@@ -1,0 +1,996 @@
+{
+ "subjects": [
+  {
+   "id": "berkshire",
+   "zh": "伯克希尔·哈撒韦",
+   "short": "伯克希尔",
+   "role_zh": "价值投资 · 沃伦·巴菲特",
+   "en_short": "Berkshire",
+   "note": null
+  },
+  {
+   "id": "pershing-square",
+   "zh": "潘兴广场",
+   "short": "潘兴广场",
+   "role_zh": "激进投资 · 比尔·阿克曼",
+   "en_short": "Pershing Square",
+   "note": null
+  },
+  {
+   "id": "duquesne",
+   "zh": "杜肯家族办公室",
+   "short": "杜肯",
+   "role_zh": "家族办公室 · 德鲁肯米勒",
+   "en_short": "Duquesne",
+   "note": null
+  },
+  {
+   "id": "appaloosa",
+   "zh": "阿帕卢萨",
+   "short": "阿帕卢萨",
+   "role_zh": "对冲基金 · 戴维·泰珀",
+   "en_short": "Appaloosa",
+   "note": null
+  },
+  {
+   "id": "bridgewater",
+   "zh": "桥水基金",
+   "short": "桥水",
+   "role_zh": "宏观对冲 · 瑞·达利欧创立",
+   "en_short": "Bridgewater",
+   "note": "达利欧已于2025年退休并退出董事会；中文通名亦作雷·达利欧"
+  },
+  {
+   "id": "renaissance",
+   "zh": "文艺复兴科技",
+   "short": "文艺复兴",
+   "role_zh": "量化对冲 · 吉姆·西蒙斯创立",
+   "en_short": "Renaissance",
+   "note": null
+  },
+  {
+   "id": "citadel",
+   "zh": "城堡投资",
+   "short": "Citadel",
+   "role_zh": "量化对冲 · 肯·格里芬",
+   "en_short": "Citadel",
+   "note": null
+  },
+  {
+   "id": "baupost",
+   "zh": "鲍波斯特",
+   "short": "鲍波斯特",
+   "role_zh": "价值投资 · 塞思·卡拉曼",
+   "en_short": "Baupost",
+   "note": "鲍波斯特为音译"
+  },
+  {
+   "id": "third-point",
+   "zh": "第三点",
+   "short": "第三点",
+   "role_zh": "激进投资 · 丹尼尔·勒布",
+   "en_short": "Third Point",
+   "note": null
+  },
+  {
+   "id": "viking",
+   "zh": "维京全球",
+   "short": "维京全球",
+   "role_zh": "对冲基金 · 哈尔沃森",
+   "en_short": "Viking Global",
+   "note": "安德烈亚斯·哈尔沃森为人名音译"
+  },
+  {
+   "id": "tiger-global",
+   "zh": "老虎全球",
+   "short": "老虎全球",
+   "role_zh": "对冲基金 · 蔡斯·科尔曼",
+   "en_short": "Tiger Global",
+   "note": null
+  },
+  {
+   "id": "scion",
+   "zh": "赛恩资产",
+   "short": "赛恩",
+   "role_zh": "对冲基金 · 迈克尔·伯里",
+   "en_short": "Scion",
+   "note": "赛恩为音译"
+  },
+  {
+   "id": "soros",
+   "zh": "索罗斯基金管理",
+   "short": "索罗斯",
+   "role_zh": "宏观对冲 · 乔治·索罗斯创立",
+   "en_short": "Soros",
+   "note": "现任CIO为道恩·菲茨帕特里克"
+  },
+  {
+   "id": "coatue",
+   "zh": "阔图资本",
+   "short": "Coatue",
+   "role_zh": "科技对冲 · 菲利普·拉丰",
+   "en_short": "Coatue",
+   "note": "中文媒体亦常直接用Coatue"
+  },
+  {
+   "id": "point72",
+   "zh": "Point72",
+   "short": "Point72",
+   "role_zh": "多策略对冲 · 史蒂文·科恩",
+   "en_short": "Point72",
+   "note": "中文媒体多保留英文名"
+  },
+  {
+   "id": "icahn",
+   "zh": "伊坎企业",
+   "short": "伊坎",
+   "role_zh": "激进投资 · 卡尔·伊坎",
+   "en_short": "Icahn",
+   "note": "13F申报主体为ICAHN CARL C"
+  },
+  {
+   "id": "elliott",
+   "zh": "埃利奥特投资管理",
+   "short": "埃利奥特",
+   "role_zh": "激进投资 · 保罗·辛格",
+   "en_short": "Elliott",
+   "note": null
+  },
+  {
+   "id": "lone-pine",
+   "zh": "孤松资本",
+   "short": "孤松",
+   "role_zh": "对冲基金 · 斯蒂芬·曼德尔",
+   "en_short": "Lone Pine",
+   "note": null
+  },
+  {
+   "id": "two-sigma",
+   "zh": "双西格玛",
+   "short": "双西格玛",
+   "role_zh": "量化对冲 · 奥弗德克与西格尔",
+   "en_short": "Two Sigma",
+   "note": null
+  },
+  {
+   "id": "de-shaw",
+   "zh": "德劭",
+   "short": "德劭",
+   "role_zh": "量化对冲 · 戴维·E·肖创立",
+   "en_short": "D. E. Shaw",
+   "note": null
+  },
+  {
+   "id": "millennium",
+   "zh": "千禧管理",
+   "short": "千禧",
+   "role_zh": "多策略对冲 · 英格兰德",
+   "en_short": "Millennium",
+   "note": null
+  },
+  {
+   "id": "starboard",
+   "zh": "星板价值",
+   "short": "星板",
+   "role_zh": "激进投资 · 杰弗里·史密斯",
+   "en_short": "Starboard",
+   "note": "星板为意译，中文亦常保留Starboard"
+  },
+  {
+   "id": "valueact",
+   "zh": "价值行动",
+   "short": "价值行动",
+   "role_zh": "激进投资 · 杰弗里·乌本创立",
+   "en_short": "ValueAct",
+   "note": "现任CEO为梅森·莫菲特"
+  },
+  {
+   "id": "ark",
+   "zh": "方舟投资",
+   "short": "方舟",
+   "role_zh": "主动ETF · 凯瑟琳·伍德",
+   "en_short": "ARK",
+   "note": null
+  },
+  {
+   "id": "oaktree",
+   "zh": "橡树资本",
+   "short": "橡树",
+   "role_zh": "不良资产 · 霍华德·马克斯",
+   "en_short": "Oaktree",
+   "note": null
+  },
+  {
+   "id": "paulson",
+   "zh": "保尔森公司",
+   "short": "保尔森",
+   "role_zh": "对冲基金 · 约翰·保尔森",
+   "en_short": "Paulson",
+   "note": null
+  },
+  {
+   "id": "himalaya",
+   "zh": "喜马拉雅资本",
+   "short": "喜马拉雅",
+   "role_zh": "价值投资 · 李录",
+   "en_short": "Himalaya",
+   "note": null
+  },
+  {
+   "id": "trian",
+   "zh": "特里安",
+   "short": "特里安",
+   "role_zh": "激进投资 · 纳尔逊·佩尔茨",
+   "en_short": "Trian",
+   "note": "特里安为音译"
+  },
+  {
+   "id": "greenlight",
+   "zh": "绿光资本",
+   "short": "绿光",
+   "role_zh": "对冲基金 · 戴维·艾因霍恩",
+   "en_short": "Greenlight",
+   "note": "13F申报主体现为DME Capital Management"
+  },
+  {
+   "id": "altimeter",
+   "zh": "高度计资本",
+   "short": "高度计",
+   "role_zh": "科技投资 · 布拉德·格斯特纳",
+   "en_short": "Altimeter",
+   "note": "高度计为意译，中文亦常保留Altimeter"
+  },
+  {
+   "id": "situational-awareness",
+   "zh": "情境感知",
+   "short": "情境感知",
+   "role_zh": "人工智能投资 · 阿申布伦纳",
+   "en_short": "Situational Awareness",
+   "note": "意译，尚无通行译名；利奥波德·阿申布伦纳为音译"
+  },
+  {
+   "id": "gotham",
+   "zh": "哥谭资产",
+   "short": "哥谭",
+   "role_zh": "价值投资 · 乔尔·格林布拉特",
+   "en_short": "Gotham",
+   "note": null
+  },
+  {
+   "id": "akre",
+   "zh": "阿克尔资本",
+   "short": "阿克尔",
+   "role_zh": "成长投资 · 查克·阿克尔",
+   "en_short": "Akre",
+   "note": "阿克尔为音译；约翰·内夫现为联席管理人"
+  },
+  {
+   "id": "markel",
+   "zh": "马克尔集团",
+   "short": "马克尔",
+   "role_zh": "保险投资 · 汤姆·盖纳",
+   "en_short": "Markel",
+   "note": "马克尔为音译"
+  },
+  {
+   "id": "fundsmith",
+   "zh": "Fundsmith",
+   "short": "Fundsmith",
+   "role_zh": "质量投资 · 特里·史密斯",
+   "en_short": "Fundsmith",
+   "note": "中文媒体多保留英文名"
+  },
+  {
+   "id": "pabrai",
+   "zh": "达拉尔街",
+   "short": "帕布莱",
+   "role_zh": "价值投资 · 莫尼什·帕布莱",
+   "en_short": "Pabrai",
+   "note": "申报主体为Dalal Street；帕布莱为音译"
+  },
+  {
+   "id": "gates-foundation-trust",
+   "zh": "盖茨基金会信托",
+   "short": "盖茨信托",
+   "role_zh": "慈善信托 · 比尔·盖茨",
+   "en_short": "Gates Trust",
+   "note": null
+  },
+  {
+   "id": "tci",
+   "zh": "TCI基金",
+   "short": "TCI",
+   "role_zh": "激进投资 · 克里斯托弗·霍恩",
+   "en_short": "TCI",
+   "note": "全称为儿童投资基金"
+  },
+  {
+   "id": "maverick",
+   "zh": "独行侠资本",
+   "short": "独行侠",
+   "role_zh": "对冲基金 · 李·安斯利",
+   "en_short": "Maverick",
+   "note": null
+  },
+  {
+   "id": "d1-capital",
+   "zh": "D1资本",
+   "short": "D1",
+   "role_zh": "对冲基金 · 丹尼尔·桑德海姆",
+   "en_short": "D1 Capital",
+   "note": null
+  },
+  {
+   "id": "glenview",
+   "zh": "格伦维尤",
+   "short": "格伦维尤",
+   "role_zh": "对冲基金 · 拉里·罗宾斯",
+   "en_short": "Glenview",
+   "note": "格伦维尤为音译"
+  },
+  {
+   "id": "saba",
+   "zh": "萨巴资本",
+   "short": "萨巴",
+   "role_zh": "对冲基金 · 博阿兹·温斯坦",
+   "en_short": "Saba",
+   "note": "萨巴为音译"
+  },
+  {
+   "id": "norges",
+   "zh": "挪威央行投资管理公司",
+   "short": "挪威基金",
+   "role_zh": "主权基金 · 挪威",
+   "en_short": "Norges Bank",
+   "note": "管理挪威政府全球养老基金"
+  },
+  {
+   "id": "temasek",
+   "zh": "淡马锡",
+   "short": "淡马锡",
+   "role_zh": "主权基金 · 新加坡",
+   "en_short": "Temasek",
+   "note": null
+  },
+  {
+   "id": "cppib",
+   "zh": "加拿大养老金投资委员会",
+   "short": "加拿大养老金",
+   "role_zh": "公共养老金 · 加拿大",
+   "en_short": "CPP Investments",
+   "note": null
+  },
+  {
+   "id": "otpp",
+   "zh": "安大略教师养老金计划",
+   "short": "安大略教师",
+   "role_zh": "公共养老金 · 安大略教师",
+   "en_short": "OTPP",
+   "note": null
+  },
+  {
+   "id": "pif",
+   "zh": "沙特公共投资基金",
+   "short": "沙特PIF",
+   "role_zh": "主权基金 · 沙特",
+   "en_short": "PIF",
+   "note": null
+  },
+  {
+   "id": "harvard",
+   "zh": "哈佛管理公司",
+   "short": "哈佛",
+   "role_zh": "大学捐赠基金 · 哈佛",
+   "en_short": "Harvard",
+   "note": null
+  },
+  {
+   "id": "mubadala",
+   "zh": "穆巴达拉",
+   "short": "穆巴达拉",
+   "role_zh": "主权基金 · 阿布扎比",
+   "en_short": "Mubadala",
+   "note": null
+  },
+  {
+   "id": "calpers",
+   "zh": "加州公务员退休基金",
+   "short": "CalPERS",
+   "role_zh": "公共养老金 · 加州公务员",
+   "en_short": "CalPERS",
+   "note": null
+  },
+  {
+   "id": "calstrs",
+   "zh": "加州教师退休基金",
+   "short": "CalSTRS",
+   "role_zh": "公共养老金 · 加州教师",
+   "en_short": "CalSTRS",
+   "note": null
+  },
+  {
+   "id": "cdpq",
+   "zh": "魁北克储蓄投资集团",
+   "short": "CDPQ",
+   "role_zh": "公共养老金 · 魁北克",
+   "en_short": "CDPQ",
+   "note": null
+  },
+  {
+   "id": "aqr",
+   "zh": "AQR资本",
+   "short": "AQR",
+   "role_zh": "量化对冲 · 克利夫·阿斯内斯",
+   "en_short": "AQR",
+   "note": null
+  },
+  {
+   "id": "jane-street",
+   "zh": "简街资本",
+   "short": "简街",
+   "role_zh": "量化做市 · 纽约",
+   "en_short": "Jane Street",
+   "note": null
+  },
+  {
+   "id": "susquehanna",
+   "zh": "海纳国际集团",
+   "short": "海纳",
+   "role_zh": "自营交易 · 杰夫·亚斯",
+   "en_short": "SIG",
+   "note": null
+  },
+  {
+   "id": "balyasny",
+   "zh": "巴利亚斯尼",
+   "short": "巴利亚斯尼",
+   "role_zh": "多策略对冲 · 巴利亚斯尼",
+   "en_short": "Balyasny",
+   "note": "音译"
+  },
+  {
+   "id": "exoduspoint",
+   "zh": "ExodusPoint",
+   "short": "Exodus",
+   "role_zh": "多策略对冲 · 迈克尔·格尔班德",
+   "en_short": "ExodusPoint",
+   "note": "中文媒体多保留英文名"
+  },
+  {
+   "id": "omers",
+   "zh": "安大略市政雇员退休系统",
+   "short": "OMERS",
+   "role_zh": "公共养老金 · 安大略市政",
+   "en_short": "OMERS",
+   "note": null
+  },
+  {
+   "id": "squarepoint",
+   "zh": "Squarepoint",
+   "short": "SquarePt",
+   "role_zh": "量化对冲 · 伦敦",
+   "en_short": "Squarepoint",
+   "note": "中文媒体多保留英文名；无单一公众代表人物"
+  },
+  {
+   "id": "marshall-wace",
+   "zh": "马歇尔·韦斯",
+   "short": "马歇尔韦斯",
+   "role_zh": "量化对冲 · 马歇尔与韦斯",
+   "en_short": "Marshall Wace",
+   "note": null
+  },
+  {
+   "id": "jensen-huang",
+   "zh": "黄仁勋",
+   "short": "黄仁勋",
+   "role_zh": "英伟达 创始人兼CEO",
+   "en_short": "Jensen Huang",
+   "note": null
+  },
+  {
+   "id": "elon-musk",
+   "zh": "埃隆·马斯克",
+   "short": "马斯克",
+   "role_zh": "特斯拉 CEO",
+   "en_short": "Elon Musk",
+   "note": null
+  },
+  {
+   "id": "jeff-bezos",
+   "zh": "杰夫·贝佐斯",
+   "short": "贝佐斯",
+   "role_zh": "亚马逊 创始人、执行董事长",
+   "en_short": "Jeff Bezos",
+   "note": null
+  },
+  {
+   "id": "andy-jassy",
+   "zh": "安迪·贾西",
+   "short": "贾西",
+   "role_zh": "亚马逊 总裁兼CEO",
+   "en_short": "Andy Jassy",
+   "note": null
+  },
+  {
+   "id": "mark-zuckerberg",
+   "zh": "马克·扎克伯格",
+   "short": "扎克伯格",
+   "role_zh": "Meta 创始人兼CEO",
+   "en_short": "Mark Zuckerberg",
+   "note": null
+  },
+  {
+   "id": "tim-cook",
+   "zh": "蒂姆·库克",
+   "short": "库克",
+   "role_zh": "苹果 执行董事长",
+   "en_short": "Tim Cook",
+   "note": "2026年9月卸任CEO、转任执行董事长"
+  },
+  {
+   "id": "satya-nadella",
+   "zh": "萨提亚·纳德拉",
+   "short": "纳德拉",
+   "role_zh": "微软 CEO",
+   "en_short": "Satya Nadella",
+   "note": null
+  },
+  {
+   "id": "sundar-pichai",
+   "zh": "桑达尔·皮查伊",
+   "short": "皮查伊",
+   "role_zh": "Alphabet CEO",
+   "en_short": "Sundar Pichai",
+   "note": null
+  },
+  {
+   "id": "sergey-brin",
+   "zh": "谢尔盖·布林",
+   "short": "布林",
+   "role_zh": "谷歌 联合创始人、董事",
+   "en_short": "Sergey Brin",
+   "note": null
+  },
+  {
+   "id": "larry-page",
+   "zh": "拉里·佩奇",
+   "short": "佩奇",
+   "role_zh": "谷歌 联合创始人、董事",
+   "en_short": "Larry Page",
+   "note": null
+  },
+  {
+   "id": "lisa-su",
+   "zh": "苏姿丰",
+   "short": "苏姿丰",
+   "role_zh": "AMD 董事长兼CEO",
+   "en_short": "Lisa Su",
+   "note": null
+  },
+  {
+   "id": "hock-tan",
+   "zh": "陈福阳",
+   "short": "陈福阳",
+   "role_zh": "博通 总裁兼CEO",
+   "en_short": "Hock Tan",
+   "note": null
+  },
+  {
+   "id": "larry-ellison",
+   "zh": "拉里·埃里森",
+   "short": "埃里森",
+   "role_zh": "甲骨文 创始人、董事长兼CTO",
+   "en_short": "Larry Ellison",
+   "note": null
+  },
+  {
+   "id": "safra-catz",
+   "zh": "萨弗拉·卡茨",
+   "short": "卡茨",
+   "role_zh": "甲骨文 执行副董事长",
+   "en_short": "Safra Catz",
+   "note": "亦见译名凯芝、卡兹；2025年卸任CEO"
+  },
+  {
+   "id": "michael-dell",
+   "zh": "迈克尔·戴尔",
+   "short": "戴尔",
+   "role_zh": "戴尔 创始人、董事长兼CEO",
+   "en_short": "Michael Dell",
+   "note": null
+  },
+  {
+   "id": "marc-benioff",
+   "zh": "马克·贝尼奥夫",
+   "short": "贝尼奥夫",
+   "role_zh": "赛富时 董事长兼CEO",
+   "en_short": "Marc Benioff",
+   "note": null
+  },
+  {
+   "id": "alex-karp",
+   "zh": "亚历克斯·卡普",
+   "short": "卡普",
+   "role_zh": "帕兰提尔 CEO",
+   "en_short": "Alex Karp",
+   "note": null
+  },
+  {
+   "id": "peter-thiel",
+   "zh": "彼得·蒂尔",
+   "short": "蒂尔",
+   "role_zh": "帕兰提尔 董事长",
+   "en_short": "Peter Thiel",
+   "note": null
+  },
+  {
+   "id": "jamie-dimon",
+   "zh": "杰米·戴蒙",
+   "short": "戴蒙",
+   "role_zh": "摩根大通 董事长兼CEO",
+   "en_short": "Jamie Dimon",
+   "note": null
+  },
+  {
+   "id": "david-solomon",
+   "zh": "戴维·所罗门",
+   "short": "所罗门",
+   "role_zh": "高盛 董事长兼CEO",
+   "en_short": "David Solomon",
+   "note": null
+  },
+  {
+   "id": "larry-fink",
+   "zh": "拉里·芬克",
+   "short": "芬克",
+   "role_zh": "贝莱德 董事长兼CEO",
+   "en_short": "Larry Fink",
+   "note": null
+  },
+  {
+   "id": "brian-armstrong",
+   "zh": "布赖恩·阿姆斯特朗",
+   "short": "阿姆斯特朗",
+   "role_zh": "Coinbase 创始人兼CEO",
+   "en_short": "Brian Armstrong",
+   "note": null
+  },
+  {
+   "id": "michael-saylor",
+   "zh": "迈克尔·塞勒",
+   "short": "塞勒",
+   "role_zh": "Strategy 创始人、执行董事长",
+   "en_short": "Michael Saylor",
+   "note": "公司已由MicroStrategy更名为Strategy Inc"
+  },
+  {
+   "id": "reed-hastings",
+   "zh": "里德·哈斯廷斯",
+   "short": "哈斯廷斯",
+   "role_zh": "奈飞 联合创始人",
+   "en_short": "Reed Hastings",
+   "note": "2026年6月已退出奈飞董事会"
+  },
+  {
+   "id": "ted-sarandos",
+   "zh": "特德·萨兰多斯",
+   "short": "萨兰多斯",
+   "role_zh": "奈飞 联席CEO",
+   "en_short": "Ted Sarandos",
+   "note": "萨兰多斯为音译"
+  },
+  {
+   "id": "brian-chesky",
+   "zh": "布赖恩·切斯基",
+   "short": "切斯基",
+   "role_zh": "爱彼迎 创始人、董事长兼CEO",
+   "en_short": "Brian Chesky",
+   "note": null
+  },
+  {
+   "id": "dara-khosrowshahi",
+   "zh": "达拉·科斯罗萨希",
+   "short": "科斯罗萨希",
+   "role_zh": "优步 CEO",
+   "en_short": "Dara Khosrowshahi",
+   "note": "音译"
+  },
+  {
+   "id": "shantanu-narayen",
+   "zh": "山塔努·纳拉延",
+   "short": "纳拉延",
+   "role_zh": "Adobe 董事长兼CEO",
+   "en_short": "Shantanu Narayen",
+   "note": "山塔努·纳拉延为音译"
+  },
+  {
+   "id": "mary-barra",
+   "zh": "玛丽·巴拉",
+   "short": "巴拉",
+   "role_zh": "通用汽车 董事长兼CEO",
+   "en_short": "Mary Barra",
+   "note": null
+  },
+  {
+   "id": "warren-buffett",
+   "zh": "沃伦·巴菲特",
+   "short": "巴菲特",
+   "role_zh": "伯克希尔 荣誉董事长",
+   "en_short": "Warren Buffett",
+   "note": "2026年9月卸任董事长、转任荣誉董事长，仍任董事"
+  },
+  {
+   "id": "house-t000490",
+   "zh": "戴维·泰勒",
+   "short": "泰勒",
+   "role_zh": "众议员 · 共和党 · 俄亥俄第2选区",
+   "en_short": "David Taylor",
+   "note": "音译"
+  },
+  {
+   "id": "house-f000110",
+   "zh": "克莱奥·菲尔兹",
+   "short": "菲尔兹",
+   "role_zh": "众议员 · 民主党 · 路易斯安那第6选区",
+   "en_short": "Cleo Fields",
+   "note": null
+  },
+  {
+   "id": "house-d000617",
+   "zh": "苏珊·德尔贝内",
+   "short": "德尔贝内",
+   "role_zh": "众议员 · 民主党 · 华盛顿州第1选区",
+   "en_short": "Suzan DelBene",
+   "note": null
+  },
+  {
+   "id": "house-m001234",
+   "zh": "凯利·莫里森",
+   "short": "莫里森",
+   "role_zh": "众议员 · 民主党 · 明尼苏达第3选区",
+   "en_short": "Kelly Morrison",
+   "note": "音译"
+  },
+  {
+   "id": "house-m001236",
+   "zh": "蒂姆·穆尔",
+   "short": "穆尔",
+   "role_zh": "众议员 · 共和党 · 北卡第14选区",
+   "en_short": "Tim Moore",
+   "note": null
+  },
+  {
+   "id": "house-a000372",
+   "zh": "里克·艾伦",
+   "short": "艾伦",
+   "role_zh": "众议员 · 共和党 · 佐治亚第12选区",
+   "en_short": "Rick Allen",
+   "note": null
+  },
+  {
+   "id": "house-c001123",
+   "zh": "吉尔·西斯内罗斯",
+   "short": "西斯内罗斯",
+   "role_zh": "众议员 · 民主党 · 加州第31选区",
+   "en_short": "Gil Cisneros",
+   "note": "常用名Gil；输入zh_draft「喜吉利」非通行译名"
+  },
+  {
+   "id": "house-m001232",
+   "zh": "埃普丽尔·麦克莱恩·德兰尼",
+   "short": "德兰尼",
+   "role_zh": "众议员 · 民主党 · 马里兰第6选区",
+   "en_short": "April Delaney",
+   "note": "音译"
+  },
+  {
+   "id": "house-g000583",
+   "zh": "乔希·戈特海默",
+   "short": "戈特海默",
+   "role_zh": "众议员 · 民主党 · 新泽西第5选区",
+   "en_short": "Josh Gottheimer",
+   "note": null
+  },
+  {
+   "id": "house-k000398",
+   "zh": "小托马斯·基恩",
+   "short": "小基恩",
+   "role_zh": "众议员 · 共和党 · 新泽西第7选区",
+   "en_short": "Thomas Kean Jr.",
+   "note": null
+  },
+  {
+   "id": "house-k000376",
+   "zh": "迈克·凯利",
+   "short": "凯利",
+   "role_zh": "众议员 · 共和党 · 宾州第16选区",
+   "en_short": "Mike Kelly",
+   "note": null
+  },
+  {
+   "id": "house-k000389",
+   "zh": "罗·康纳",
+   "short": "康纳",
+   "role_zh": "众议员 · 民主党 · 加州第17选区",
+   "en_short": "Ro Khanna",
+   "note": "中文维基与主流媒体用康纳"
+  },
+  {
+   "id": "house-p000608",
+   "zh": "斯科特·皮特斯",
+   "short": "皮特斯",
+   "role_zh": "众议员 · 民主党 · 加州第50选区",
+   "en_short": "Scott Peters",
+   "note": null
+  },
+  {
+   "id": "house-r000395",
+   "zh": "哈尔·罗杰斯",
+   "short": "罗杰斯",
+   "role_zh": "众议员 · 共和党 · 肯塔基第5选区",
+   "en_short": "Hal Rogers",
+   "note": null
+  },
+  {
+   "id": "house-j000309",
+   "zh": "乔纳森·杰克逊",
+   "short": "杰克逊",
+   "role_zh": "众议员 · 民主党 · 伊利诺伊第1选区",
+   "en_short": "Jonathan Jackson",
+   "note": null
+  },
+  {
+   "id": "house-m001157",
+   "zh": "迈克尔·麦考尔",
+   "short": "麦考尔",
+   "role_zh": "众议员 · 共和党 · 德州第10选区",
+   "en_short": "Michael McCaul",
+   "note": null
+  },
+  {
+   "id": "house-c001068",
+   "zh": "史蒂夫·科恩",
+   "short": "科恩",
+   "role_zh": "众议员 · 民主党 · 田纳西第9选区",
+   "en_short": "Steve Cohen",
+   "note": "田纳西州众议员，与Point72的史蒂文·科恩不是同一人"
+  },
+  {
+   "id": "house-g000596",
+   "zh": "玛乔丽·泰勒·格林",
+   "short": "格林",
+   "role_zh": "前众议员 · 共和党 · 佐治亚第14选区",
+   "en_short": "M. T. Greene",
+   "note": "2026年1月5日辞职；任内为共和党"
+  },
+  {
+   "id": "house-h001082",
+   "zh": "凯文·赫恩",
+   "short": "赫恩",
+   "role_zh": "众议员 · 共和党 · 俄克拉荷马第1选区",
+   "en_short": "Kevin Hern",
+   "note": null
+  },
+  {
+   "id": "house-b001325",
+   "zh": "谢里·比格斯",
+   "short": "比格斯",
+   "role_zh": "众议员 · 共和党 · 南卡第3选区",
+   "en_short": "Sheri Biggs",
+   "note": "音译"
+  },
+  {
+   "id": "house-d000032",
+   "zh": "拜伦·唐纳兹",
+   "short": "唐纳兹",
+   "role_zh": "众议员 · 共和党 · 佛州第19选区",
+   "en_short": "Byron Donalds",
+   "note": null
+  },
+  {
+   "id": "house-h001086",
+   "zh": "黛安娜·哈什巴格",
+   "short": "哈什巴格",
+   "role_zh": "众议员 · 共和党 · 田纳西第1选区",
+   "en_short": "Diana Harshbarger",
+   "note": "音译"
+  },
+  {
+   "id": "house-m001222",
+   "zh": "马克斯·米勒",
+   "short": "米勒",
+   "role_zh": "众议员 · 共和党 · 俄亥俄第7选区",
+   "en_short": "Max Miller",
+   "note": null
+  },
+  {
+   "id": "house-b001292",
+   "zh": "唐·拜尔",
+   "short": "拜尔",
+   "role_zh": "众议员 · 民主党 · 弗吉尼亚第8选区",
+   "en_short": "Don Beyer",
+   "note": null
+  },
+  {
+   "id": "house-d000399",
+   "zh": "劳埃德·多格特",
+   "short": "多格特",
+   "role_zh": "众议员 · 民主党 · 德州第37选区",
+   "en_short": "Lloyd Doggett",
+   "note": null
+  },
+  {
+   "id": "house-f000450",
+   "zh": "弗吉尼亚·福克斯",
+   "short": "福克斯",
+   "role_zh": "众议员 · 共和党 · 北卡第5选区",
+   "en_short": "Virginia Foxx",
+   "note": null
+  },
+  {
+   "id": "house-j000310",
+   "zh": "朱莉·约翰逊",
+   "short": "约翰逊",
+   "role_zh": "众议员 · 民主党 · 德州第32选区",
+   "en_short": "Julie Johnson",
+   "note": "音译"
+  },
+  {
+   "id": "house-k000375",
+   "zh": "比尔·基廷",
+   "short": "基廷",
+   "role_zh": "众议员 · 民主党 · 马萨诸塞第9选区",
+   "en_short": "Bill Keating",
+   "note": null
+  },
+  {
+   "id": "house-m001136",
+   "zh": "丽莎·麦克莱恩",
+   "short": "麦克莱恩",
+   "role_zh": "众议员 · 共和党 · 密歇根第9选区",
+   "en_short": "Lisa McClain",
+   "note": null
+  },
+  {
+   "id": "house-w000797",
+   "zh": "黛比·沃瑟曼·舒尔茨",
+   "short": "舒尔茨",
+   "role_zh": "众议员 · 民主党 · 佛州第25选区",
+   "en_short": "Wasserman Schultz",
+   "note": null
+  },
+  {
+   "id": "house-w000829",
+   "zh": "托尼·维德",
+   "short": "维德",
+   "role_zh": "众议员 · 共和党 · 威斯康星第8选区",
+   "en_short": "Tony Wied",
+   "note": "音译"
+  },
+  {
+   "id": "house-b001327",
+   "zh": "罗布·布雷斯纳汉",
+   "short": "布雷斯纳汉",
+   "role_zh": "众议员 · 共和党 · 宾州第8选区",
+   "en_short": "Rob Bresnahan",
+   "note": "音译；常用名Rob"
+  },
+  {
+   "id": "house-m001217",
+   "zh": "贾里德·莫斯科维茨",
+   "short": "莫斯科维茨",
+   "role_zh": "众议员 · 民主党 · 佛州第23选区",
+   "en_short": "Jared Moskowitz",
+   "note": null
+  },
+  {
+   "id": "house-p000197",
+   "zh": "南希·佩洛西",
+   "short": "佩洛西",
+   "role_zh": "众议员 · 民主党 · 加州第11选区",
+   "en_short": "Pelosi",
+   "note": null
+  }
+ ]
+}

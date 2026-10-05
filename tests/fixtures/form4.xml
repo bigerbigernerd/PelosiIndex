@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Synthetic parser regression fixture, not an investor record. -->
+<ownershipDocument>
+  <documentType>4</documentType><periodOfReport>2026-09-01</periodOfReport><aff10b5One>true</aff10b5One>
+  <issuer><issuerCik>0000000001</issuerCik><issuerName>Parser Test Fixture</issuerName><issuerTradingSymbol>TEST</issuerTradingSymbol></issuer>
+  <nonDerivativeTable><nonDerivativeTransaction>
+    <securityTitle><value>Common Stock</value></securityTitle><transactionDate><value>2026-09-01</value></transactionDate>
+    <transactionCoding><transactionCode>F</transactionCode></transactionCoding>
+    <transactionAmounts><transactionShares><value>10</value></transactionShares><transactionPricePerShare><value>12</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts>
+    <ownershipNature><directOrIndirectOwnership><value>I</value></directOrIndirectOwnership></ownershipNature><footnoteId id="F1"/>
+  </nonDerivativeTransaction></nonDerivativeTable>
+  <derivativeTable><derivativeTransaction><securityTitle><value>Stock Option</value></securityTitle><transactionCoding><transactionCode>M</transactionCode></transactionCoding><transactionAmounts><transactionShares><value>25</value></transactionShares></transactionAmounts></derivativeTransaction></derivativeTable>
+  <footnotes><footnote id="F1">Tax withholding, not an open-market sale.</footnote></footnotes>
+</ownershipDocument>

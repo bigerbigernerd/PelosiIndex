@@ -1,0 +1,85 @@
+{
+  "model": "openbmb/VoxCPM2",
+  "style": "A confident American male technology-commercial narrator, warm low voice, crisp clear English, conversational medium pace, controlled energy, clean dry studio recording, no music",
+  "load_seconds": 11.336856455076486,
+  "segments": [
+    {
+      "file": "01-brand.wav",
+      "text": "Public filings. A bigger picture.",
+      "duration": 2.4,
+      "sample_rate": 48000,
+      "peak": 0.2535421550273895,
+      "rms": 0.025925515219569206,
+      "generation_seconds": 3.083948857150972,
+      "seed": 10051,
+      "reference": null,
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    },
+    {
+      "file": "02-universe.wav",
+      "text": "Meet Pelosi Index. Explore disclosed trades and holdings across politicians, company insiders, and major funds.",
+      "duration": 6.72,
+      "sample_rate": 48000,
+      "peak": 0.21402351558208466,
+      "rms": 0.02732490748167038,
+      "generation_seconds": 7.725726641714573,
+      "seed": 10052,
+      "reference": "01-brand.wav",
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    },
+    {
+      "file": "03-evidence.wav",
+      "text": "Follow Nancy Pelosi's reported household trades. Inspect the dates, ownership labels, and original filing evidence.",
+      "duration": 6.24,
+      "sample_rate": 48000,
+      "peak": 0.3216991722583771,
+      "rms": 0.035477280616760254,
+      "generation_seconds": 6.871816267259419,
+      "seed": 10053,
+      "reference": "01-brand.wav",
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    },
+    {
+      "file": "04-stock.wav",
+      "text": "Start with a stock. Discover who reported exposure, and how their disclosures connect.",
+      "duration": 5.44,
+      "sample_rate": 48000,
+      "peak": 0.38862818479537964,
+      "rms": 0.0358143076300621,
+      "generation_seconds": 5.981052068062127,
+      "seed": 10054,
+      "reference": "01-brand.wav",
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    },
+    {
+      "file": "05-research.wav",
+      "text": "Download the data and research skills. Take the investigation into your own workflow.",
+      "duration": 5.44,
+      "sample_rate": 48000,
+      "peak": 0.3143921196460724,
+      "rms": 0.031039535999298096,
+      "generation_seconds": 5.972812877036631,
+      "seed": 10055,
+      "reference": "01-brand.wav",
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    },
+    {
+      "file": "06-close.wav",
+      "text": "Follow the filings. See the bigger picture.",
+      "duration": 2.56,
+      "sample_rate": 48000,
+      "peak": 0.4121432900428772,
+      "rms": 0.03283259645104408,
+      "generation_seconds": 3.6656654151156545,
+      "seed": 10061,
+      "reference": "01-brand.wav",
+      "time_stretch_applied": false,
+      "pitch_shift_applied": false
+    }
+  ]
+}

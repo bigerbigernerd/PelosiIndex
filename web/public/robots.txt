@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /account/
+Disallow: /test/
+Disallow: /tests/
+Disallow: /qa/
+Disallow: /research/
+Disallow: /reports/
+Disallow: /server/
+Disallow: /deploy/
+
+Sitemap: https://pelosi.pocketplay.win/sitemap.xml

@@ -1,0 +1,3358 @@
+{
+ "items": [
+  {
+   "id": "ADM",
+   "kind": "company_logo",
+   "domain": "adm.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=adm.com&sz=64",
+   "local_path": "logos-extra/ADM.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "55738a57dc5731543458b384907f894d5d58df93af06165993291bb3665c3352",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:16.854084+00:00"
+  },
+  {
+   "id": "ADSK",
+   "kind": "company_logo",
+   "domain": "autodesk.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=autodesk.com&sz=64",
+   "local_path": "logos-extra/ADSK.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "93743166bf31ed3957fc57caa88738f406d3f994189f21632b72f3c0a7f0b790",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:17.787495+00:00"
+  },
+  {
+   "id": "ABBV",
+   "kind": "company_logo",
+   "domain": "abbvie.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=abbvie.com&sz=64",
+   "local_path": "logos-extra/ABBV.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "4881acd4f89f3e8c6ce5de2e64c4c34a942d4a684171857698952e5c1f5c6d92",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:18.723655+00:00"
+  },
+  {
+   "id": "ADBE",
+   "kind": "company_logo",
+   "domain": "adobe.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=64",
+   "local_path": "logos-extra/ADBE.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "e2e43e1920fbdd5c88ce3315f114f487aa396ba2e07080e21ee6c6756e3b7df8",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:19.561008+00:00"
+  },
+  {
+   "id": "ACN",
+   "kind": "company_logo",
+   "domain": "accenture.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=accenture.com&sz=64",
+   "local_path": "logos-extra/ACN.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "feeafa6baea66a3d0d31056bfe559c838a7438fc77ced2ef8753eff1757fe227",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:20.501690+00:00"
+  },
+  {
+   "id": "AIG",
+   "kind": "company_logo",
+   "domain": "aig.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=aig.com&sz=64",
+   "local_path": "logos-extra/AIG.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ec689dc8ae638fde0e55f336647440f8af4c0dbe04eb521adfe7db475cdac419",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:21.361336+00:00"
+  },
+  {
+   "id": "AES",
+   "kind": "company_logo",
+   "domain": "aes.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=aes.com&sz=64",
+   "local_path": "logos-extra/AES.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "a297e62562719b3b1770c049cb285fd53ee7318997e495c8131d898bba4f82d7",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:22.384415+00:00"
+  },
+  {
+   "id": "A",
+   "kind": "company_logo",
+   "domain": "agilent.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "AEE",
+   "kind": "company_logo",
+   "domain": "ameren.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ameren.com&sz=64",
+   "local_path": "logos-extra/AEE.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "78a7dc7c60beeccb1e38a29a4c49d986a6060a137f72f5dacd479b61d7e5f150",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:24.071799+00:00"
+  },
+  {
+   "id": "AIZ",
+   "kind": "company_logo",
+   "domain": "assurant.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=assurant.com&sz=64",
+   "local_path": "logos-extra/AIZ.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "cb8ce4e0f615bc07c25b82d5369dfa329d172bc2164c7bc941347e9872165c71",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:24.970857+00:00"
+  },
+  {
+   "id": "AJG",
+   "kind": "company_logo",
+   "domain": "ajg.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ajg.com&sz=64",
+   "local_path": "logos-extra/AJG.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "af7c7ae458c2af9a490962522ecc5cb82dc4f74d329dd37a92484c33ffe0a98b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:25.861428+00:00"
+  },
+  {
+   "id": "AKAM",
+   "kind": "company_logo",
+   "domain": "akamai.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=akamai.com&sz=64",
+   "local_path": "logos-extra/AKAM.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "f043e2b4719bc4b51cdc5cf9baa4602b73442eacc2756f830ca3185468b50b5c",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:26.699669+00:00"
+  },
+  {
+   "id": "ALGN",
+   "kind": "company_logo",
+   "domain": "aligntech.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ALNY",
+   "kind": "company_logo",
+   "domain": "alnylam.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "AMAT",
+   "kind": "company_logo",
+   "domain": "appliedmaterials.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=appliedmaterials.com&sz=64",
+   "local_path": "logos-extra/AMAT.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "0db23fb0bad4ec7c02545f0a5a80a48835f4dd7500459c8550fe1191d35d348b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:29.281935+00:00"
+  },
+  {
+   "id": "ANET",
+   "kind": "company_logo",
+   "domain": "arista.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=arista.com&sz=64",
+   "local_path": "logos-extra/ANET.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "73bcc5c0d27ad87667510993620a3c9c90bc65d38fd6b89c98b0d1242e4d82cd",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:30.158462+00:00"
+  },
+  {
+   "id": "AMGN",
+   "kind": "company_logo",
+   "domain": "amgen.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "APA",
+   "kind": "company_logo",
+   "domain": "apachecorp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=apachecorp.com&sz=64",
+   "local_path": "logos-extra/APA.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "22e12dc4f5f29154898e57e5531ecc0e87e0e6dbda57bfe43af92b40e5317c48",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:31.917147+00:00"
+  },
+  {
+   "id": "AOS",
+   "kind": "company_logo",
+   "domain": "aosmith.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "AME",
+   "kind": "company_logo",
+   "domain": "ametek.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "APH",
+   "kind": "company_logo",
+   "domain": "amphenol.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=amphenol.com&sz=64",
+   "local_path": "logos-extra/APH.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "ba42682b6c3f5ff67c5c3115368aad4e2c1db12bbab9034d94b065eded8ce75a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:34.569519+00:00"
+  },
+  {
+   "id": "APD",
+   "kind": "company_logo",
+   "domain": "airproducts.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=airproducts.com&sz=64",
+   "local_path": "logos-extra/APD.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "cc281490c2f1471cb72402ae447e62f98f4aba4bae165b3caac269280fc6eda2",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:35.459921+00:00"
+  },
+  {
+   "id": "ARES",
+   "kind": "company_logo",
+   "domain": "aresmgmt.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=aresmgmt.com&sz=64",
+   "local_path": "logos-extra/ARES.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "208ba85bc2efb4be4f26751903ccc11c6b7a9dd4895e23562c5075866240e371",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:36.331087+00:00"
+  },
+  {
+   "id": "AMZN",
+   "kind": "company_logo",
+   "domain": "amazon.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=amazon.com&sz=64",
+   "local_path": "logos-extra/AMZN.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "cf39ef4f70ada127ce40ab44e03d155e57826b6418c8c304314100cdc58d09b9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:37.154317+00:00"
+  },
+  {
+   "id": "ARE",
+   "kind": "company_logo",
+   "domain": "are.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "AZO",
+   "kind": "company_logo",
+   "domain": "autozone.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=autozone.com&sz=64",
+   "local_path": "logos-extra/AZO.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "03a2e4113fa3374cf0a69874a7cde8d10a0a0ce079af333f1a2540614bf7af97",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:38.909295+00:00"
+  },
+  {
+   "id": "ASML",
+   "kind": "company_logo",
+   "domain": "asml.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=asml.com&sz=64",
+   "local_path": "logos-extra/ASML.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "a8824a2e89e44bdc023a1bef0d0d8db46b2f82c3fff5941a6a679112f80a1da0",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:39.742791+00:00"
+  },
+  {
+   "id": "BA",
+   "kind": "company_logo",
+   "domain": "boeing.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "BALL",
+   "kind": "company_logo",
+   "domain": "ball.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ATO",
+   "kind": "company_logo",
+   "domain": "atmosenergy.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "BEN",
+   "kind": "company_logo",
+   "domain": "franklintempleton.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "BG",
+   "kind": "company_logo",
+   "domain": "bunge.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "BLK",
+   "kind": "company_logo",
+   "domain": "blackrock.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "BRK.B",
+   "kind": "company_logo",
+   "domain": "berkshirehathaway.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "BMY",
+   "kind": "company_logo",
+   "domain": "bms.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=bms.com&sz=64",
+   "local_path": "logos-extra/BMY.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "3a4d0a55a44756069b2ae8e9e655d8162c11f190195d183f85a3a89fe49fadc4",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:46.638529+00:00"
+  },
+  {
+   "id": "BR",
+   "kind": "company_logo",
+   "domain": "broadridge.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=broadridge.com&sz=64",
+   "local_path": "logos-extra/BR.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "48984a0833ca4aee5d8eef4820031c0d59814a67b47be78c543d68437598c3e5",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:47.501844+00:00"
+  },
+  {
+   "id": "BX",
+   "kind": "company_logo",
+   "domain": "blackstone.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=blackstone.com&sz=64",
+   "local_path": "logos-extra/BX.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "c8ec179a59a8653d19ccfb5e258ada53882ea817a003734ebb5af5f719328b41",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:48.376498+00:00"
+  },
+  {
+   "id": "AEP",
+   "kind": "company_logo",
+   "domain": "aep.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CASY",
+   "kind": "company_logo",
+   "domain": "caseys.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=caseys.com&sz=64",
+   "local_path": "logos-extra/CASY.png",
+   "size": [
+    34,
+    34
+   ],
+   "sha256": "dd23514ad1c492a80cda8380f75a79f6913a2746304b35e72f5171fe50df0bf6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:50.144661+00:00"
+  },
+  {
+   "id": "BRO",
+   "kind": "company_logo",
+   "domain": "bbinsurance.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=bbinsurance.com&sz=64",
+   "local_path": "logos-extra/BRO.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "04c20eba2894110d72e066ade1eea6229eb5f23160af89f2e393a4a507890118",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:51.020967+00:00"
+  },
+  {
+   "id": "CARR",
+   "kind": "company_logo",
+   "domain": "corporate.carrier.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CBRE",
+   "kind": "company_logo",
+   "domain": "cbre.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cbre.com&sz=64",
+   "local_path": "logos-extra/CBRE.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "503c0c6a40fa25916a47e3c744c19250b998ea8ea0951ca85295be30e99ef3d2",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:52.729904+00:00"
+  },
+  {
+   "id": "CDNS",
+   "kind": "company_logo",
+   "domain": "cadence.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CFG",
+   "kind": "company_logo",
+   "domain": "citizensbank.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CB",
+   "kind": "company_logo",
+   "domain": "chubb.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=chubb.com&sz=64",
+   "local_path": "logos-extra/CB.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "af6e1faec0cdefc2b7762d73b33adcd02b0ec14117113c3f3e04be0710818451",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:55.381038+00:00"
+  },
+  {
+   "id": "CHD",
+   "kind": "company_logo",
+   "domain": "churchdwight.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "CI",
+   "kind": "company_logo",
+   "domain": "cigna.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cigna.com&sz=64",
+   "local_path": "logos-extra/CI.png",
+   "size": [
+    32,
+    23
+   ],
+   "sha256": "af8d2e5370f4f8abe38ed8b687954472403302fb9efb7c37fc5331297d7e794a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:57.129236+00:00"
+  },
+  {
+   "id": "CIEN",
+   "kind": "company_logo",
+   "domain": "ciena.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ciena.com&sz=64",
+   "local_path": "logos-extra/CIEN.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "173ac1a7116c8d00d741c6e7a3da303ad1b2107af45b1ce3e9c116f85804aa3a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:57.996216+00:00"
+  },
+  {
+   "id": "CINF",
+   "kind": "company_logo",
+   "domain": "cinfin.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ADI",
+   "kind": "company_logo",
+   "domain": "analog.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=analog.com&sz=64",
+   "local_path": "logos-extra/ADI.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "4938210ff924cd33606582ff771b5f8f83f175e13e0e36f15f387feffa5b75c7",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:55:59.735630+00:00"
+  },
+  {
+   "id": "BBY",
+   "kind": "company_logo",
+   "domain": "bestbuy.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=bestbuy.com&sz=64",
+   "local_path": "logos-extra/BBY.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c93b43bb50852824b3b8f32a01c8dbc55a7658f9f125ff61d4da21f2d75cc2ad",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:00.584817+00:00"
+  },
+  {
+   "id": "CMI",
+   "kind": "company_logo",
+   "domain": "cummins.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cummins.com&sz=64",
+   "local_path": "logos-extra/CMI.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c0b44aaf50bb672f6c578ead56c51e872ee89b8160b327b69b5e259d1474b892",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:01.422681+00:00"
+  },
+  {
+   "id": "AMD",
+   "kind": "company_logo",
+   "domain": "amd.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CMS",
+   "kind": "company_logo",
+   "domain": "cmsenergy.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CHTR",
+   "kind": "company_logo",
+   "domain": "charter.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=charter.com&sz=64",
+   "local_path": "logos-extra/CHTR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "0dc7ec67c3e325905995200c84c509d760743db4932cb900e0cad3bfbbf1109c",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:03.994433+00:00"
+  },
+  {
+   "id": "CNC",
+   "kind": "company_logo",
+   "domain": "centene.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CPT",
+   "kind": "company_logo",
+   "domain": "camdenliving.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=camdenliving.com&sz=64",
+   "local_path": "logos-extra/CPT.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "50e668d26c25561a2cc425077d24376bdbd814f4b0d8a3812976e11710707ff5",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:05.738151+00:00"
+  },
+  {
+   "id": "CPRT",
+   "kind": "company_logo",
+   "domain": "copart.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=copart.com&sz=64",
+   "local_path": "logos-extra/CPRT.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "c19d9f6d688967c47b06761babea2bc92d588f8b23b123bf07e41453b242627b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:06.608588+00:00"
+  },
+  {
+   "id": "AWK",
+   "kind": "company_logo",
+   "domain": "amwater.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CSCO",
+   "kind": "company_logo",
+   "domain": "cisco.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CAH",
+   "kind": "company_logo",
+   "domain": "cardinalhealth.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cardinalhealth.com&sz=64",
+   "local_path": "logos-extra/CAH.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "e33f49efdce9bd40906ed423336899f83d7031c6eee867a8fc157f1dfaba489a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:09.185717+00:00"
+  },
+  {
+   "id": "CSX",
+   "kind": "company_logo",
+   "domain": "csx.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CTAS",
+   "kind": "company_logo",
+   "domain": "cintas.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cintas.com&sz=64",
+   "local_path": "logos-extra/CTAS.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "f05ef259bb4c455c66a1ed256fb35e2f746e75a7c4fcda2bd0548fa7184a13f1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:10.931662+00:00"
+  },
+  {
+   "id": "CVNA",
+   "kind": "company_logo",
+   "domain": "carvana.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=carvana.com&sz=64",
+   "local_path": "logos-extra/CVNA.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "a0f0a70c4e837b82c0f5cbb7fd60dc4cf6a79d4ac96f5ee214ccf1423469671e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:11.832547+00:00"
+  },
+  {
+   "id": "CRM",
+   "kind": "company_logo",
+   "domain": "salesforce.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=salesforce.com&sz=64",
+   "local_path": "logos-extra/CRM.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "5b78b4cf36dd51087324be5e73dc6e643e1894b4a6686caf649f85224843d75f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:12.722742+00:00"
+  },
+  {
+   "id": "CTVA",
+   "kind": "company_logo",
+   "domain": "corteva.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "CSGP",
+   "kind": "company_logo",
+   "domain": "costargroup.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=costargroup.com&sz=64",
+   "local_path": "logos-extra/CSGP.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "3d07bc3273a74f8a38f47574e6cd97ef28b4b88f134fcc808770c702a3629093",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:14.663692+00:00"
+  },
+  {
+   "id": "DASH",
+   "kind": "company_logo",
+   "domain": "doordash.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=doordash.com&sz=64",
+   "local_path": "logos-extra/DASH.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "9550e91087d33055113345456a81c43851b084792491199c95b5038ce73bafd5",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:15.658866+00:00"
+  },
+  {
+   "id": "CVX",
+   "kind": "company_logo",
+   "domain": "chevron.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=chevron.com&sz=64",
+   "local_path": "logos-extra/CVX.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "ef894613ce94e727fd93135f49e31e4a27b9bf308fc019e49596caed005dd8af",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:16.679243+00:00"
+  },
+  {
+   "id": "DD",
+   "kind": "company_logo",
+   "domain": "dupont.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "D",
+   "kind": "company_logo",
+   "domain": "dominionenergy.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=dominionenergy.com&sz=64",
+   "local_path": "logos-extra/D.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "3c332c9668ba27863bfeb08a71424b39bc26cf94ef6e8a465accbc5de7eb0fbe",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:18.776911+00:00"
+  },
+  {
+   "id": "CVS",
+   "kind": "company_logo",
+   "domain": "cvshealth.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cvshealth.com&sz=64",
+   "local_path": "logos-extra/CVS.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "71c458ad33207b81dc9dd0754f26125683b1e8b5bc7ff7a042530768bd1eee34",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:19.823745+00:00"
+  },
+  {
+   "id": "DG",
+   "kind": "company_logo",
+   "domain": "dollargeneral.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=dollargeneral.com&sz=64",
+   "local_path": "logos-extra/DG.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "8818c4b38a438d985e47c13c32e2405fe27228381723f7cfdb323a02b25dfc96",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:20.818202+00:00"
+  },
+  {
+   "id": "DE",
+   "kind": "company_logo",
+   "domain": "deere.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "DHR",
+   "kind": "company_logo",
+   "domain": "danaher.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "DELL",
+   "kind": "company_logo",
+   "domain": "delltechnologies.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "DGX",
+   "kind": "company_logo",
+   "domain": "questdiagnostics.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "DECK",
+   "kind": "company_logo",
+   "domain": "deckers.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "DOC",
+   "kind": "company_logo",
+   "domain": "hcpi.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=hcpi.com&sz=64",
+   "local_path": "logos-extra/DOC.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "272c56fce913701c11237b182721227e0790822d256a16c5a12490d62fb56c11",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:26.033442+00:00"
+  },
+  {
+   "id": "DLR",
+   "kind": "company_logo",
+   "domain": "digitalrealty.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=digitalrealty.com&sz=64",
+   "local_path": "logos-extra/DLR.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "f369321d90350a6f6bd23d658f18254d3a38a96d7b4268b0806fd7c6c197a6e3",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:26.919162+00:00"
+  },
+  {
+   "id": "DLTR",
+   "kind": "company_logo",
+   "domain": "dollartree.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=dollartree.com&sz=64",
+   "local_path": "logos-extra/DLTR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "9262d39a31506af1bc569bc9abf157d73b2e874a5ec89efd87cffa9753fb5aa0",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:27.796154+00:00"
+  },
+  {
+   "id": "EFX",
+   "kind": "company_logo",
+   "domain": "equifax.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=equifax.com&sz=64",
+   "local_path": "logos-extra/EFX.png",
+   "size": [
+    57,
+    57
+   ],
+   "sha256": "daad9ad124e257d3717cb1835ab08c815b773a52c80daecc0659bd3e241dff61",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:28.695776+00:00"
+  },
+  {
+   "id": "EIX",
+   "kind": "company_logo",
+   "domain": "edison.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=edison.com&sz=64",
+   "local_path": "logos-extra/EIX.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "fa1d0fb09abc34e29c3305fdccb55b01f110caf3a14858b8e8d611167e62ae45",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:29.530955+00:00"
+  },
+  {
+   "id": "ECL",
+   "kind": "company_logo",
+   "domain": "ecolab.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ecolab.com&sz=64",
+   "local_path": "logos-extra/ECL.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "1be7af935884f6a4d4f7c384fdb4c9135d406ac5dad741a949f625e6ac660b0b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:30.450436+00:00"
+  },
+  {
+   "id": "EMR",
+   "kind": "company_logo",
+   "domain": "emerson.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=emerson.com&sz=64",
+   "local_path": "logos-extra/EMR.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "9cca56b11544527ed391710e835d4c54adce50c717899d88f17e50e909f746b0",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:31.283846+00:00"
+  },
+  {
+   "id": "EL",
+   "kind": "company_logo",
+   "domain": "elcompanies.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "DUK",
+   "kind": "company_logo",
+   "domain": "duke-energy.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=duke-energy.com&sz=64",
+   "local_path": "logos-extra/DUK.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "686e3d2bc9a24c65337363d59618a1dedfd37c025b8a62289c935e9db674b73a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:33.052395+00:00"
+  },
+  {
+   "id": "EQIX",
+   "kind": "company_logo",
+   "domain": "equinix.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=equinix.com&sz=64",
+   "local_path": "logos-extra/EQIX.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "7afbba2f7f999d83feb6b88a3473a8bb20a50d5918ecf850cd0599a9c056851e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:33.919189+00:00"
+  },
+  {
+   "id": "CME",
+   "kind": "company_logo",
+   "domain": "cmegroup.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cmegroup.com&sz=64",
+   "local_path": "logos-extra/CME.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "be59aa85d57eb1277eb6d5b2eecbe80788033cfbd5af207a61a0d1a50ce0325a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:34.765117+00:00"
+  },
+  {
+   "id": "EVRG",
+   "kind": "company_logo",
+   "domain": "evergy.com",
+   "error": "too small 15"
+  },
+  {
+   "id": "ES",
+   "kind": "company_logo",
+   "domain": "eversource.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "EW",
+   "kind": "company_logo",
+   "domain": "edwardslifesciences.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "EXC",
+   "kind": "company_logo",
+   "domain": "exeloncorp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=exeloncorp.com&sz=64",
+   "local_path": "logos-extra/EXC.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "882c988c01e658807bf84289f6bb172206737c2ee9f3eee82cb452ebd50efa41",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:38.218571+00:00"
+  },
+  {
+   "id": "EXR",
+   "kind": "company_logo",
+   "domain": "extraspace.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=extraspace.com&sz=64",
+   "local_path": "logos-extra/EXR.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "6b131ddaa0472a48c722a74020ff1d9a0c01c24d76789b1a14144a039dfcbfa1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:39.084095+00:00"
+  },
+  {
+   "id": "EXPD",
+   "kind": "company_logo",
+   "domain": "expeditors.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=expeditors.com&sz=64",
+   "local_path": "logos-extra/EXPD.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "88bfe8f586fa3e2ebf6bdce0e480544cac70a201f3b137467fd725d7d3123307",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:39.952709+00:00"
+  },
+  {
+   "id": "EXPE",
+   "kind": "company_logo",
+   "domain": "expediagroup.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=expediagroup.com&sz=64",
+   "local_path": "logos-extra/EXPE.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "753a219b4524e50519ae4bc8ccbcb5ba17d0319ba1ec1be83193bbd7eefc3d89",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:40.815693+00:00"
+  },
+  {
+   "id": "FAST",
+   "kind": "company_logo",
+   "domain": "fastenal.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "FCX",
+   "kind": "company_logo",
+   "domain": "fcx.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "EXE",
+   "kind": "company_logo",
+   "domain": "chk.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=chk.com&sz=64",
+   "local_path": "logos-extra/EXE.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "810bea5456718bcd9b75d8c0966b9dd1dbad7feea1a3246a9356b1eebcc47f9b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:43.455996+00:00"
+  },
+  {
+   "id": "FDS",
+   "kind": "company_logo",
+   "domain": "factset.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "FDX",
+   "kind": "company_logo",
+   "domain": "fedex.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=fedex.com&sz=64",
+   "local_path": "logos-extra/FDX.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "6e36d86670c9d13a8f706d615dbbc7bafa7c594482e23247a8ed2e0850e09054",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:45.136575+00:00"
+  },
+  {
+   "id": "FDXF",
+   "kind": "company_logo",
+   "domain": "fedexfreight.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=fedexfreight.com&sz=64",
+   "local_path": "logos-extra/FDXF.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "25fef1fc12a1b7ad14b2ddce93bddba828a97745e30ddbb080400e84817aaf8b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:45.996519+00:00"
+  },
+  {
+   "id": "ED",
+   "kind": "company_logo",
+   "domain": "coned.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=coned.com&sz=64",
+   "local_path": "logos-extra/ED.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "0b15b6afb64762020d5f7dfce5fc2b6970315eff77fe5bf109a42d5a71bae096",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:46.876933+00:00"
+  },
+  {
+   "id": "FERG",
+   "kind": "company_logo",
+   "domain": "ferguson.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ferguson.com&sz=64",
+   "local_path": "logos-extra/FERG.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "ba5a808d67a3b835a44383c75e967d586bd4b68575df71c9dbd0fae197fc0e32",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:47.732774+00:00"
+  },
+  {
+   "id": "FE",
+   "kind": "company_logo",
+   "domain": "firstenergycorp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=firstenergycorp.com&sz=64",
+   "local_path": "logos-extra/FE.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "beb607827434ab8a1e9edd5b215511bed53d7d6b662e563c6ab1b29674a5b4a3",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:48.595985+00:00"
+  },
+  {
+   "id": "FFIV",
+   "kind": "company_logo",
+   "domain": "f5.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=f5.com&sz=64",
+   "local_path": "logos-extra/FFIV.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c9889ac9ec7337d578309a0e35699e4f7856165189896e046c2b8290e35f91f1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:49.463248+00:00"
+  },
+  {
+   "id": "FITB",
+   "kind": "company_logo",
+   "domain": "ir.53.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "FISV",
+   "kind": "company_logo",
+   "domain": "fiserv.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "FTV",
+   "kind": "company_logo",
+   "domain": "fortive.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=fortive.com&sz=64",
+   "local_path": "logos-extra/FTV.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "354a5b14e498186e405d5131b2a9c39f4470cb29320fe444852600a3b58a8f74",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:52.202276+00:00"
+  },
+  {
+   "id": "GD",
+   "kind": "company_logo",
+   "domain": "gd.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=gd.com&sz=64",
+   "local_path": "logos-extra/GD.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "5d890e93fc800d8ee9927f728fc8653998da10504ae14b260fd2722223d2de57",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:53.044280+00:00"
+  },
+  {
+   "id": "GE",
+   "kind": "company_logo",
+   "domain": "geaerospace.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=geaerospace.com&sz=64",
+   "local_path": "logos-extra/GE.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "be8c870b63a45d08b32ba0562fd29cf470b17a4d7e69585757cd0877bcb5aed6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:53.927332+00:00"
+  },
+  {
+   "id": "GDDY",
+   "kind": "company_logo",
+   "domain": "godaddy.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=godaddy.com&sz=64",
+   "local_path": "logos-extra/GDDY.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "10991a07a0364a3fddb60ef3c96b8e79252bf0926c0fef98bf5a8e6151b42419",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:54.765787+00:00"
+  },
+  {
+   "id": "FSLR",
+   "kind": "company_logo",
+   "domain": "firstsolar.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "GEV",
+   "kind": "company_logo",
+   "domain": "gevernova.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=gevernova.com&sz=64",
+   "local_path": "logos-extra/GEV.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "d792e31fc0028070ed2f4157eb64bd31981513dbb7ef91324cbab2fb402c3be9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:56.599689+00:00"
+  },
+  {
+   "id": "GL",
+   "kind": "company_logo",
+   "domain": "torchmarkcorp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=torchmarkcorp.com&sz=64",
+   "local_path": "logos-extra/GL.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "a2756cf3bf6b4dc5074ff44f4a091f9d13208c4a9ef86231f541d2f5757a2f06",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:56:57.459572+00:00"
+  },
+  {
+   "id": "GLW",
+   "kind": "company_logo",
+   "domain": "corning.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "GOOGL",
+   "kind": "company_logo",
+   "domain": "abc.xyz",
+   "error": "too small 16"
+  },
+  {
+   "id": "GOOG",
+   "kind": "company_logo",
+   "domain": "abc.xyz",
+   "error": "too small 16"
+  },
+  {
+   "id": "ESS",
+   "kind": "company_logo",
+   "domain": "essexapartmenthomes.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=essexapartmenthomes.com&sz=64",
+   "local_path": "logos-extra/ESS.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "e09f9ddc67c38e24aac8ea3a09098233ff61b1f79d37914f0c8554e86cf765ba",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:00.993171+00:00"
+  },
+  {
+   "id": "GM",
+   "kind": "company_logo",
+   "domain": "gm.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=gm.com&sz=64",
+   "local_path": "logos-extra/GM.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "7d9aafb63501569b47fe5f0774da6d76217c5526f48084b8adffd0a4979c0e67",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:01.868096+00:00"
+  },
+  {
+   "id": "GS",
+   "kind": "company_logo",
+   "domain": "goldmansachs.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=goldmansachs.com&sz=64",
+   "local_path": "logos-extra/GS.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "8fd0182b2c945b2db5594c608e7dac255d3860514e52c78771348ba8d1b85021",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:02.746607+00:00"
+  },
+  {
+   "id": "HAL",
+   "kind": "company_logo",
+   "domain": "halliburton.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=halliburton.com&sz=64",
+   "local_path": "logos-extra/HAL.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "403fc30342bb04fd346cd1097906d3d10c5f7c9b327c038b561a68c4483f7fd6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:03.627964+00:00"
+  },
+  {
+   "id": "GIS",
+   "kind": "company_logo",
+   "domain": "generalmills.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=generalmills.com&sz=64",
+   "local_path": "logos-extra/GIS.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "1336ed3deba803c5919c085ef713308daefa3aebb6a68b866b7225d1224ed262",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:04.524474+00:00"
+  },
+  {
+   "id": "GWW",
+   "kind": "company_logo",
+   "domain": "grainger.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=grainger.com&sz=64",
+   "local_path": "logos-extra/GWW.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "64af3444612e343a2d348ba03d4989344a0f4d9396bf3ca4d2a18c0119dad417",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:05.369777+00:00"
+  },
+  {
+   "id": "GPN",
+   "kind": "company_logo",
+   "domain": "globalpaymentsinc.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=globalpaymentsinc.com&sz=64",
+   "local_path": "logos-extra/GPN.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "f4a1e8f2ec2d749920d117897c04909aa0977e8f50f19fa48c5d44b96a81a8bd",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:06.273295+00:00"
+  },
+  {
+   "id": "HBAN",
+   "kind": "company_logo",
+   "domain": "huntington.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=huntington.com&sz=64",
+   "local_path": "logos-extra/HBAN.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "16863c9520ded96010ce3acaf0f611c8b3b284d4173c164c7d8ee166708da4e2",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:07.164097+00:00"
+  },
+  {
+   "id": "HD",
+   "kind": "company_logo",
+   "domain": "homedepot.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=homedepot.com&sz=64",
+   "local_path": "logos-extra/HD.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "f978ee5a09ab0e322b11f15b1f1eb5216e36e6646b84e20d79596e3c0836640f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:08.000192+00:00"
+  },
+  {
+   "id": "HAS",
+   "kind": "company_logo",
+   "domain": "shop.hasbro.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=shop.hasbro.com&sz=64",
+   "local_path": "logos-extra/HAS.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "415c24feda2729073db210059fbb817bcc8bb5f3d7bc4ac760439abc0a055946",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:08.862029+00:00"
+  },
+  {
+   "id": "HCA",
+   "kind": "company_logo",
+   "domain": "hcahealthcare.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "F",
+   "kind": "company_logo",
+   "domain": "ford.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ford.com&sz=64",
+   "local_path": "logos-extra/F.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "30cd9aa567c0a7776c53a67a76e4efb46262f368fd242146bf9a625643908403",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:10.569675+00:00"
+  },
+  {
+   "id": "HUM",
+   "kind": "company_logo",
+   "domain": "humana.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=humana.com&sz=64",
+   "local_path": "logos-extra/HUM.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "d4847b80ece4d24a59565292be9d108a785b654b893f1f5b417075845cdf431b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:11.451112+00:00"
+  },
+  {
+   "id": "HPQ",
+   "kind": "company_logo",
+   "domain": "hp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=hp.com&sz=64",
+   "local_path": "logos-extra/HPQ.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "f2609386e3f224d84827485dd1e89d0adfb98ba5f72a3b55ae4f6c1b2f401ecf",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:12.312651+00:00"
+  },
+  {
+   "id": "HST",
+   "kind": "company_logo",
+   "domain": "hosthotels.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ICE",
+   "kind": "company_logo",
+   "domain": "theice.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=theice.com&sz=64",
+   "local_path": "logos-extra/ICE.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "0efec8e4da0bcaaf9a99cc4a672d46c31bd7edcd8897fe910e5ccada57310b47",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:14.061032+00:00"
+  },
+  {
+   "id": "ETN",
+   "kind": "company_logo",
+   "domain": "eaton.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ILMN",
+   "kind": "company_logo",
+   "domain": "illumina.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "IFF",
+   "kind": "company_logo",
+   "domain": "iff.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=iff.com&sz=64",
+   "local_path": "logos-extra/IFF.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "ab340ad39cd0bc9fc8b6d80af36f4c81a905a0117778bf611617b8885e52f7c6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:16.815150+00:00"
+  },
+  {
+   "id": "INCY",
+   "kind": "company_logo",
+   "domain": "incyte.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=incyte.com&sz=64",
+   "local_path": "logos-extra/INCY.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "8a52927641ac7a281a310f8a50ff1e2c075cd5227aed88d7bd7e9d9140bc5488",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:17.676886+00:00"
+  },
+  {
+   "id": "INTC",
+   "kind": "company_logo",
+   "domain": "intel.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=intel.com&sz=64",
+   "local_path": "logos-extra/INTC.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "0300266d7d3b1fd355930b52e75936e0ac281f8022262fee2b30af2d657c832d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:18.540605+00:00"
+  },
+  {
+   "id": "IP",
+   "kind": "company_logo",
+   "domain": "internationalpaper.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=internationalpaper.com&sz=64",
+   "local_path": "logos-extra/IP.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "f151e1a6081f3433029a44f9a3ce366549cdb702d30791d9a038ac3c3db37f7f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:19.406521+00:00"
+  },
+  {
+   "id": "IT",
+   "kind": "company_logo",
+   "domain": "gartner.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=gartner.com&sz=64",
+   "local_path": "logos-extra/IT.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ac15723dbf42e131f15d28791ad77cb897905a5ef6a78bd305d96d09b5c08bb0",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:20.238543+00:00"
+  },
+  {
+   "id": "ISRG",
+   "kind": "company_logo",
+   "domain": "intuitive.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=intuitive.com&sz=64",
+   "local_path": "logos-extra/ISRG.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "d4fd530aec894e74f1b17ac3c6ddf1792281ea6a158eccedc6fc0c67a5570f4c",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:21.119973+00:00"
+  },
+  {
+   "id": "IBM",
+   "kind": "company_logo",
+   "domain": "ibm.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ibm.com&sz=64",
+   "local_path": "logos-extra/IBM.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "ad1b591b3a7beec81cd2995d82cda7196c120ade600fde493cf12028602e4d01",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:22.044375+00:00"
+  },
+  {
+   "id": "HIG",
+   "kind": "company_logo",
+   "domain": "thehartford.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=thehartford.com&sz=64",
+   "local_path": "logos-extra/HIG.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "2008b4bcd3c071fec9c91abbf00e7684771de63a4bb06e62f9544c4c97d66cba",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:22.888373+00:00"
+  },
+  {
+   "id": "JKHY",
+   "kind": "company_logo",
+   "domain": "jackhenry.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=jackhenry.com&sz=64",
+   "local_path": "logos-extra/JKHY.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "3eea59fb2cc78b0973f8d201767456f56135cba3baaaac737c577a64c86788c6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:23.759927+00:00"
+  },
+  {
+   "id": "JCI",
+   "kind": "company_logo",
+   "domain": "johnsoncontrols.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=johnsoncontrols.com&sz=64",
+   "local_path": "logos-extra/JCI.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "2d5199b52a505a2420d7fabe0abd1b8e3b0e8a441e9e59a6a3ba6c077d5b4950",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:24.616703+00:00"
+  },
+  {
+   "id": "KHC",
+   "kind": "company_logo",
+   "domain": "kraftheinzcompany.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "KMB",
+   "kind": "company_logo",
+   "domain": "kimberly-clark.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=kimberly-clark.com&sz=64",
+   "local_path": "logos-extra/KMB.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "5f598eec19ac8437e5758d660e43cf0fcae6723a1bf47060fe4c1d26a31bf585",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:26.370474+00:00"
+  },
+  {
+   "id": "KIM",
+   "kind": "company_logo",
+   "domain": "kimcorealty.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=kimcorealty.com&sz=64",
+   "local_path": "logos-extra/KIM.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "e520d385deded7784b475e5320aebabf066b508bcd045a32195a3a64834d33a3",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:27.276785+00:00"
+  },
+  {
+   "id": "LEN",
+   "kind": "company_logo",
+   "domain": "lennar.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=lennar.com&sz=64",
+   "local_path": "logos-extra/LEN.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "e19280f38b68d69e2d3e640cc8764001555e1e12fbf87442a5efe73b57470249",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:28.126454+00:00"
+  },
+  {
+   "id": "L",
+   "kind": "company_logo",
+   "domain": "loews.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=loews.com&sz=64",
+   "local_path": "logos-extra/L.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "95a61877031fea4be4897c09239501a9338591a4bcfb03d2e44582cf549f6d18",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:29.008777+00:00"
+  },
+  {
+   "id": "LOW",
+   "kind": "company_logo",
+   "domain": "lowes.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "LNT",
+   "kind": "company_logo",
+   "domain": "alliantenergy.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "LUV",
+   "kind": "company_logo",
+   "domain": "southwest.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "LVS",
+   "kind": "company_logo",
+   "domain": "lasvegassands.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=lasvegassands.com&sz=64",
+   "local_path": "logos-extra/LVS.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "d79ccc335e135042cdd715017d97b63e08df542220f8ad509b7a3a14dfa4d3d2",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:32.537880+00:00"
+  },
+  {
+   "id": "MAA",
+   "kind": "company_logo",
+   "domain": "maac.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=maac.com&sz=64",
+   "local_path": "logos-extra/MAA.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "5e1211fed84f7da051c5223845707af1a4919f921b04fd99df45e4f418e1e45e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:33.411885+00:00"
+  },
+  {
+   "id": "MA",
+   "kind": "company_logo",
+   "domain": "mastercard.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=mastercard.com&sz=64",
+   "local_path": "logos-extra/MA.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "1af7f514fef607006085c19626095ebd53697f11aefe15991b55f6ff061a4b4d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:34.238456+00:00"
+  },
+  {
+   "id": "IR",
+   "kind": "company_logo",
+   "domain": "ingersollrand.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ingersollrand.com&sz=64",
+   "local_path": "logos-extra/IR.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "4efa12afb77785e21443bedda668ba01fa7cec804dd65f93480eb97aec008eee",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:35.101199+00:00"
+  },
+  {
+   "id": "IRM",
+   "kind": "company_logo",
+   "domain": "ironmountain.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ironmountain.com&sz=64",
+   "local_path": "logos-extra/IRM.png",
+   "size": [
+    33,
+    33
+   ],
+   "sha256": "0d509c203827c7a5a0903b288c3f711f72aec6e8b6ef64c39b76a48438ceebc3",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:35.980779+00:00"
+  },
+  {
+   "id": "MAR",
+   "kind": "company_logo",
+   "domain": "marriott.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=marriott.com&sz=64",
+   "local_path": "logos-extra/MAR.png",
+   "size": [
+    57,
+    57
+   ],
+   "sha256": "5646430376bf6ba35dbc23c7872e43df5f89e8b5c845b079352fd7ef6c6ec819",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:36.811333+00:00"
+  },
+  {
+   "id": "HPE",
+   "kind": "company_logo",
+   "domain": "hpe.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=hpe.com&sz=64",
+   "local_path": "logos-extra/HPE.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "e94ad0c6932fd4262915433fccaa27ed19ddce00db7a531f25cd4f5ed1cc3439",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:37.665944+00:00"
+  },
+  {
+   "id": "MCO",
+   "kind": "company_logo",
+   "domain": "moodys.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=moodys.com&sz=64",
+   "local_path": "logos-extra/MCO.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "2a6d1cd2b65c560e2b5d81e64b97748532e91fd25744b45b83219154f4b70d01",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:38.493474+00:00"
+  },
+  {
+   "id": "MCD",
+   "kind": "company_logo",
+   "domain": "mcdonalds.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=mcdonalds.com&sz=64",
+   "local_path": "logos-extra/MCD.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "e810e1465045fd4c3bfcff13c3d7bbb64b980b0405abc4a3c605dec17c53501b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:39.404752+00:00"
+  },
+  {
+   "id": "MNST",
+   "kind": "company_logo",
+   "domain": "monsterbevcorp.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "MET",
+   "kind": "company_logo",
+   "domain": "metlife.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=metlife.com&sz=64",
+   "local_path": "logos-extra/MET.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "d6fee56cecd5d98634bc593d8fd3f9ecee2408601059f5fd0a78a5b604e6b96e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:41.169204+00:00"
+  },
+  {
+   "id": "MPC",
+   "kind": "company_logo",
+   "domain": "marathonpetroleum.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=marathonpetroleum.com&sz=64",
+   "local_path": "logos-extra/MPC.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "1a6e2d53dfd9959e151363a6891fbc26f10de48c3b41e7deb812202ece66216d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:42.095467+00:00"
+  },
+  {
+   "id": "MLM",
+   "kind": "company_logo",
+   "domain": "martinmarietta.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "MPWR",
+   "kind": "company_logo",
+   "domain": "monolithicpower.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=monolithicpower.com&sz=64",
+   "local_path": "logos-extra/MPWR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "6341c0766294702574c40337f823043f757852b1f93d0a6b6b91fa35ca222132",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:44.112281+00:00"
+  },
+  {
+   "id": "LULU",
+   "kind": "company_logo",
+   "domain": "shop.lululemon.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=shop.lululemon.com&sz=64",
+   "local_path": "logos-extra/LULU.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "b063f097afbcbf617b5287e07144d28425a16326924949f7801bf489b63f578f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:44.968520+00:00"
+  },
+  {
+   "id": "MSTR",
+   "kind": "company_logo",
+   "domain": "microstrategy.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=microstrategy.com&sz=64",
+   "local_path": "logos-extra/MSTR.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "406a81ab87a556216acac4a97adf6233f9da8de7c2df4e4827b70301c764bd39",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:45.869367+00:00"
+  },
+  {
+   "id": "MTD",
+   "kind": "company_logo",
+   "domain": "mt.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=mt.com&sz=64",
+   "local_path": "logos-extra/MTD.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "30e1eb52ce0c414a930700660cc6a2dccd4b6a9bf6bd62099c2acbec3703f8f7",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:46.746710+00:00"
+  },
+  {
+   "id": "MSI",
+   "kind": "company_logo",
+   "domain": "motorolasolutions.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=motorolasolutions.com&sz=64",
+   "local_path": "logos-extra/MSI.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ca0b15eea3d267e67617d0ea68988c187ff4ca64f1b1d6c41a8db865b1389f0c",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:47.607297+00:00"
+  },
+  {
+   "id": "NEE",
+   "kind": "company_logo",
+   "domain": "nexteraenergy.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "NDSN",
+   "kind": "company_logo",
+   "domain": "nordson.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=nordson.com&sz=64",
+   "local_path": "logos-extra/NDSN.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "d9877e6fd2b947361cd94c18ea7c287d733e6e0ce6f7b64a989524cd7181a7f4",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:49.470773+00:00"
+  },
+  {
+   "id": "NEM",
+   "kind": "company_logo",
+   "domain": "newmont.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "NI",
+   "kind": "company_logo",
+   "domain": "nisource.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "NOC",
+   "kind": "company_logo",
+   "domain": "northropgrumman.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=northropgrumman.com&sz=64",
+   "local_path": "logos-extra/NOC.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "6b6b0ce74e4132f462a15843564a91751178131d23a7053371eab311700379be",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:52.098998+00:00"
+  },
+  {
+   "id": "NOW",
+   "kind": "company_logo",
+   "domain": "servicenow.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=servicenow.com&sz=64",
+   "local_path": "logos-extra/NOW.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "79a6a17bab4ef5c73ccdb67efb34558dfae867e0e3d5e3dcb4b6c420f7907acb",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:52.935892+00:00"
+  },
+  {
+   "id": "NTAP",
+   "kind": "company_logo",
+   "domain": "netapp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=netapp.com&sz=64",
+   "local_path": "logos-extra/NTAP.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "8c1c84b0916aaf524da73ded974a6904709fc031d5c4dab36f33ee47ac7920ed",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:53.796800+00:00"
+  },
+  {
+   "id": "NSC",
+   "kind": "company_logo",
+   "domain": "norfolksouthern.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=norfolksouthern.com&sz=64",
+   "local_path": "logos-extra/NSC.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "27c0122a8d206a9e1f13cceddffd2c95e9c6bf33221c8027d54a85dea6c56d7c",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:54.733800+00:00"
+  },
+  {
+   "id": "NRG",
+   "kind": "company_logo",
+   "domain": "nrg.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=nrg.com&sz=64",
+   "local_path": "logos-extra/NRG.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "68b5e3c91b8f043a51702d4f73451d912316d19e3e0bce881f6fac459b68b353",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:55.690341+00:00"
+  },
+  {
+   "id": "KR",
+   "kind": "company_logo",
+   "domain": "kroger.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=kroger.com&sz=64",
+   "local_path": "logos-extra/KR.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "cf82c24d2060072c9ba8f87fc205c5d2759fdfcc17bd9bb7f56e4e4963a37156",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:56.527119+00:00"
+  },
+  {
+   "id": "NVDA",
+   "kind": "company_logo",
+   "domain": "nvidia.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=64",
+   "local_path": "logos-extra/NVDA.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "9885b0f7cad971df286ac06c6ce8d30ffdfb91c4edbca4de20ec31890318f994",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:57.373722+00:00"
+  },
+  {
+   "id": "ON",
+   "kind": "company_logo",
+   "domain": "onsemi.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=onsemi.com&sz=64",
+   "local_path": "logos-extra/ON.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "45274291fe610fbd4515f04a74ebf21e646d812700360f1095235ad7212ae46d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:58.231640+00:00"
+  },
+  {
+   "id": "ORCL",
+   "kind": "company_logo",
+   "domain": "oracle.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=oracle.com&sz=64",
+   "local_path": "logos-extra/ORCL.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "dcafa44a230907b020fc6cec45b686b7cc2c56b01a8849f1aa7ba6edb9e77ae6",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:59.059455+00:00"
+  },
+  {
+   "id": "MGM",
+   "kind": "company_logo",
+   "domain": "mgmresorts.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=mgmresorts.com&sz=64",
+   "local_path": "logos-extra/MGM.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "56588126a75d4cc2575b493677a64475e96dc86a7d054280356387770a16c14f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:57:59.968182+00:00"
+  },
+  {
+   "id": "ORLY",
+   "kind": "company_logo",
+   "domain": "oreillyauto.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=oreillyauto.com&sz=64",
+   "local_path": "logos-extra/ORLY.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "6bca66c28b45fbf243af9406e46b706cffbfc76d80fdb346ec45c656141886d9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:00.844577+00:00"
+  },
+  {
+   "id": "MMM",
+   "kind": "company_logo",
+   "domain": "3m.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=3m.com&sz=64",
+   "local_path": "logos-extra/MMM.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "85ef75fb19c7c3970daa83f3a6b84db4c4336b3aef3f925912f8c2de9dc8e163",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:01.740992+00:00"
+  },
+  {
+   "id": "OTIS",
+   "kind": "company_logo",
+   "domain": "otis.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "P",
+   "kind": "company_logo",
+   "domain": "purestorage.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=purestorage.com&sz=64",
+   "local_path": "logos-extra/P.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "9a8178698a02cedde6d942dd9669c1b37073e55d3e0c751612b2d35cac95fe65",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:03.460981+00:00"
+  },
+  {
+   "id": "PCG",
+   "kind": "company_logo",
+   "domain": "pge.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=pge.com&sz=64",
+   "local_path": "logos-extra/PCG.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c9075c856b3584b59d0fa43bd1c93bde19905987281d5340e6a9ab724419f67e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:04.305021+00:00"
+  },
+  {
+   "id": "PDD",
+   "kind": "company_logo",
+   "domain": "pddholdings.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "MS",
+   "kind": "company_logo",
+   "domain": "morganstanley.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=morganstanley.com&sz=64",
+   "local_path": "logos-extra/MS.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "530debd47834a23b2bd07c9aa44da07336686d39034dbb6a6f050522549714fd",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:06.024225+00:00"
+  },
+  {
+   "id": "NVR",
+   "kind": "company_logo",
+   "domain": "nvrinc.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "PFE",
+   "kind": "company_logo",
+   "domain": "pfizer.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=pfizer.com&sz=64",
+   "local_path": "logos-extra/PFE.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "10aec7cc44704f132f6ce07bf753c0b081d2c2f10d179be20edaf10a97f34e7a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:07.757027+00:00"
+  },
+  {
+   "id": "PEG",
+   "kind": "company_logo",
+   "domain": "pseg.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=pseg.com&sz=64",
+   "local_path": "logos-extra/PEG.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "ee92e87a85d2637bb56e758828f9e2764ee75695a0c6990a93fb25a52c399d5e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:08.617295+00:00"
+  },
+  {
+   "id": "PH",
+   "kind": "company_logo",
+   "domain": "parker.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=parker.com&sz=64",
+   "local_path": "logos-extra/PH.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "017fbe1a73eccbc3000be7661c2618e4a1bc1acae8b61f1416e4a68fb6bf2438",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:09.478409+00:00"
+  },
+  {
+   "id": "PLD",
+   "kind": "company_logo",
+   "domain": "prologis.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=prologis.com&sz=64",
+   "local_path": "logos-extra/PLD.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "73a6dd86673f2be88892b1939c34a107a26a985a2b9fc5bd59c71017bf083be1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:10.361691+00:00"
+  },
+  {
+   "id": "PLTR",
+   "kind": "company_logo",
+   "domain": "palantir.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=palantir.com&sz=64",
+   "local_path": "logos-extra/PLTR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ef7a546f039eb97e785b1d3739dc37fa24c3af873e532b517c6843a038e3bf5a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:11.180784+00:00"
+  },
+  {
+   "id": "NDAQ",
+   "kind": "company_logo",
+   "domain": "business.nasdaq.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=business.nasdaq.com&sz=64",
+   "local_path": "logos-extra/NDAQ.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "dbc2ca8bd4bf6302482635004c16aec3edeffb80677e3b9f31821f6f4a4ca50d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:12.050062+00:00"
+  },
+  {
+   "id": "PODD",
+   "kind": "company_logo",
+   "domain": "insulet.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=insulet.com&sz=64",
+   "local_path": "logos-extra/PODD.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "52857d4f2a82cea6702c26b30088c551344577c62e1f53d3b29e716ae62a0733",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:12.922184+00:00"
+  },
+  {
+   "id": "PGR",
+   "kind": "company_logo",
+   "domain": "progressive.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=progressive.com&sz=64",
+   "local_path": "logos-extra/PGR.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "02e5a232b38a7c7f2514391a403f622068598ca43995febb9214fcf6adc91771",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:13.810276+00:00"
+  },
+  {
+   "id": "PPL",
+   "kind": "company_logo",
+   "domain": "pplweb.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "PWR",
+   "kind": "company_logo",
+   "domain": "quantaservices.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=quantaservices.com&sz=64",
+   "local_path": "logos-extra/PWR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "a806ea9b43904694364a5b2ccb07f7ea0de48bd1588bb8a04f0bdbec41629513",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:15.577659+00:00"
+  },
+  {
+   "id": "PAYX",
+   "kind": "company_logo",
+   "domain": "paychex.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=paychex.com&sz=64",
+   "local_path": "logos-extra/PAYX.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "82f33d54a4dbe20b65efbb3c20245f614f3d1ab5ba1adc92bfe3f221bf52c0f1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:16.480056+00:00"
+  },
+  {
+   "id": "Q",
+   "kind": "company_logo",
+   "domain": "qnityelectronics.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=qnityelectronics.com&sz=64",
+   "local_path": "logos-extra/Q.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "df96eb05e46170d3016754a97af49225ae39012127dc7ceec25965be106d33d7",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:17.345906+00:00"
+  },
+  {
+   "id": "RDDT",
+   "kind": "company_logo",
+   "domain": "redditinc.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=redditinc.com&sz=64",
+   "local_path": "logos-extra/RDDT.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "6e17362f375517a9126c71f8111eaa7667ff2b2b1812e89339e1935258796f24",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:18.222104+00:00"
+  },
+  {
+   "id": "REGN",
+   "kind": "company_logo",
+   "domain": "regeneron.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=regeneron.com&sz=64",
+   "local_path": "logos-extra/REGN.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "fcfcb503f78a0a54ad3450b2efa90ec0c0648e30bbf831ebf3504eebf031a166",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:19.077195+00:00"
+  },
+  {
+   "id": "PRU",
+   "kind": "company_logo",
+   "domain": "prudential.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=prudential.com&sz=64",
+   "local_path": "logos-extra/PRU.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ca5c8a579d09f257f86382f4512eef18b8726cdb47fd66faaeec62d87a2a9937",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:19.960244+00:00"
+  },
+  {
+   "id": "RF",
+   "kind": "company_logo",
+   "domain": "regions.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=regions.com&sz=64",
+   "local_path": "logos-extra/RF.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "7784acd99b5b4370f6ca74c5be78910bf4e9e2fcb17f13228d4fb4b3a8d070d9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:20.839529+00:00"
+  },
+  {
+   "id": "RJF",
+   "kind": "company_logo",
+   "domain": "raymondjames.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=raymondjames.com&sz=64",
+   "local_path": "logos-extra/RJF.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "3bb48b74962026620d15b35f3c4d0d453f6377a1ff49b304e0f7874719dc6810",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:21.718755+00:00"
+  },
+  {
+   "id": "NTRS",
+   "kind": "company_logo",
+   "domain": "northerntrust.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=northerntrust.com&sz=64",
+   "local_path": "logos-extra/NTRS.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "639a183c4d8ed93d73891707f652d7da212ae3fea79cfabd935144be98925875",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:22.609403+00:00"
+  },
+  {
+   "id": "PSX",
+   "kind": "company_logo",
+   "domain": "phillips66.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=phillips66.com&sz=64",
+   "local_path": "logos-extra/PSX.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "2e499431ac1d851ca6833f8ecce8bb3985bb9b9bf29df940d68b7f9aa0d59419",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:23.500504+00:00"
+  },
+  {
+   "id": "RMD",
+   "kind": "company_logo",
+   "domain": "resmed.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=resmed.com&sz=64",
+   "local_path": "logos-extra/RMD.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "a5adacb8527e275a02aab1d138affe7753a9469ab4075cbddbe0d184c0538a87",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:24.302935+00:00"
+  },
+  {
+   "id": "RVTY",
+   "kind": "company_logo",
+   "domain": "revvity.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=revvity.com&sz=64",
+   "local_path": "logos-extra/RVTY.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "37c9a3e930c9e78fed8b3427eed44c73aa61301798797099cd0fb8694e56bfe1",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:25.112055+00:00"
+  },
+  {
+   "id": "RSG",
+   "kind": "company_logo",
+   "domain": "republicservices.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=republicservices.com&sz=64",
+   "local_path": "logos-extra/RSG.png",
+   "size": [
+    57,
+    57
+   ],
+   "sha256": "29a1cef8409f385449e7eacb3db18771fc20c37854ac46abfcd21fbbb39cc6f4",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:25.958190+00:00"
+  },
+  {
+   "id": "ROP",
+   "kind": "company_logo",
+   "domain": "roperind.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "PNW",
+   "kind": "company_logo",
+   "domain": "pinnaclewest.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "SJM",
+   "kind": "company_logo",
+   "domain": "jmsmucker.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "SNPS",
+   "kind": "company_logo",
+   "domain": "synopsys.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "SMCI",
+   "kind": "company_logo",
+   "domain": "supermicro.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "SHW",
+   "kind": "company_logo",
+   "domain": "sherwin-williams.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=sherwin-williams.com&sz=64",
+   "local_path": "logos-extra/SHW.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c11293b128c3a371711f7d4ef6096c40e7e62d42a8697cd13b2249b05f7d0332",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:31.123018+00:00"
+  },
+  {
+   "id": "SCHW",
+   "kind": "company_logo",
+   "domain": "schwab.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=schwab.com&sz=64",
+   "local_path": "logos-extra/SCHW.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "1dc5bf110040ef873f6c9947ac84e7684ea5fe6dfaf7c603246f77551f4bf91a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:31.966215+00:00"
+  },
+  {
+   "id": "SNDK",
+   "kind": "company_logo",
+   "domain": "sandisk.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=sandisk.com&sz=64",
+   "local_path": "logos-extra/SNDK.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "f311023797dcaceb5c501f87a53be7ff23560e65dba88a87a3f3ad0581b12c10",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:32.743988+00:00"
+  },
+  {
+   "id": "SPCX",
+   "kind": "company_logo",
+   "domain": "spacex.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=spacex.com&sz=64",
+   "local_path": "logos-extra/SPCX.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "9d1bfb856c75310fa2f00b703556e8683a8b63884d5c71521cbe5fe57b201afd",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:33.570431+00:00"
+  },
+  {
+   "id": "SNA",
+   "kind": "company_logo",
+   "domain": "snapon.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "STX",
+   "kind": "company_logo",
+   "domain": "seagate.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=seagate.com&sz=64",
+   "local_path": "logos-extra/STX.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "06c6dfaaecaabd33f3843c204feb3f7554b5812274b6e7270d6ee8f4febbf513",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:35.314105+00:00"
+  },
+  {
+   "id": "STZ",
+   "kind": "company_logo",
+   "domain": "cbrands.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cbrands.com&sz=64",
+   "local_path": "logos-extra/STZ.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "6f5458d13283decbb7ecd80d5ddd01d5f4b12d4b7fc8d5e275598cc5942adb47",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:36.259910+00:00"
+  },
+  {
+   "id": "STE",
+   "kind": "company_logo",
+   "domain": "steris.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "STT",
+   "kind": "company_logo",
+   "domain": "statestreet.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "SYF",
+   "kind": "company_logo",
+   "domain": "synchronybank.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=synchronybank.com&sz=64",
+   "local_path": "logos-extra/SYF.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "d60bbacdf87f387f4bcf37f17572f342a09680bdd625fb03c0673191a16c52b0",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:38.815804+00:00"
+  },
+  {
+   "id": "SWKS",
+   "kind": "company_logo",
+   "domain": "skyworksinc.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "SYY",
+   "kind": "company_logo",
+   "domain": "sysco.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=sysco.com&sz=64",
+   "local_path": "logos-extra/SYY.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "a7bfc83554d9de630b9facbfbc0974923ca2d650dbdd41ab6bed3738a7eca842",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:40.494122+00:00"
+  },
+  {
+   "id": "TDG",
+   "kind": "company_logo",
+   "domain": "transdigm.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=transdigm.com&sz=64",
+   "local_path": "logos-extra/TDG.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "f9a66ee0c4259577b03e803a716cb049d0d2cf073a245cdbc4abfb67faa45527",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:41.312607+00:00"
+  },
+  {
+   "id": "TDY",
+   "kind": "company_logo",
+   "domain": "teledyne.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "T",
+   "kind": "company_logo",
+   "domain": "att.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=att.com&sz=64",
+   "local_path": "logos-extra/T.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "a594322253dba0799ba95c4ea147b8d426189fbd1df942e10c9aa667dabbe856",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:43.124908+00:00"
+  },
+  {
+   "id": "TEL",
+   "kind": "company_logo",
+   "domain": "te.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "TER",
+   "kind": "company_logo",
+   "domain": "teradyne.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=teradyne.com&sz=64",
+   "local_path": "logos-extra/TER.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "1a7b369c0ef657d2ddba988ff3d549e9ff6ac90778c48dc72817c592725f4a34",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:44.786862+00:00"
+  },
+  {
+   "id": "TFC",
+   "kind": "company_logo",
+   "domain": "truist.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=truist.com&sz=64",
+   "local_path": "logos-extra/TFC.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "018148e8f37bd78a748451fc86812617d63bacbc05aa993e51e01c9141c7bf1e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:45.674718+00:00"
+  },
+  {
+   "id": "TMUS",
+   "kind": "company_logo",
+   "domain": "t-mobile.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=t-mobile.com&sz=64",
+   "local_path": "logos-extra/TMUS.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "07dc030839798e1d25111f16da5dc93306849ff7b7bb8f083b4fd0fd66d2bd4d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:46.450085+00:00"
+  },
+  {
+   "id": "TJX",
+   "kind": "company_logo",
+   "domain": "tjx.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "TSLA",
+   "kind": "company_logo",
+   "domain": "tesla.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=tesla.com&sz=64",
+   "local_path": "logos-extra/TSLA.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "a382055f349937523ca766f4de291b087546fe6643925f7cac200f8c915ad3ea",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:48.142272+00:00"
+  },
+  {
+   "id": "SWK",
+   "kind": "company_logo",
+   "domain": "stanleyblackanddecker.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "TXN",
+   "kind": "company_logo",
+   "domain": "ti.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ti.com&sz=64",
+   "local_path": "logos-extra/TXN.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "fe900b99517cf3362a7bda9852d6967b6e9d976e28cfdcc5271726c9436af08d",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:49.901181+00:00"
+  },
+  {
+   "id": "TRV",
+   "kind": "company_logo",
+   "domain": "travelers.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=travelers.com&sz=64",
+   "local_path": "logos-extra/TRV.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "507eb615635c75224c8a3223c2afec898ae893a5474386167cf374998633d8fb",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:50.713457+00:00"
+  },
+  {
+   "id": "TYL",
+   "kind": "company_logo",
+   "domain": "tylertech.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=tylertech.com&sz=64",
+   "local_path": "logos-extra/TYL.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "b7fd1f53e8f49a47ac081be58aa48751f5a0ba584d8d4ac8e09ae45433b6fc81",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:51.519799+00:00"
+  },
+  {
+   "id": "TXT",
+   "kind": "company_logo",
+   "domain": "textron.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "UNH",
+   "kind": "company_logo",
+   "domain": "uhc.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=uhc.com&sz=64",
+   "local_path": "logos-extra/UNH.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "8e8a201c5240694c8eb5d70799e0c6f499a5772f67159eeb51c76b5619bca843",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:53.139604+00:00"
+  },
+  {
+   "id": "UPS",
+   "kind": "company_logo",
+   "domain": "ups.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ups.com&sz=64",
+   "local_path": "logos-extra/UPS.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c955efbfa92f7fce5009fa93c18c0b813bce6c32c8293eb46aafa63dd422d0c9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:54.087202+00:00"
+  },
+  {
+   "id": "TRGP",
+   "kind": "company_logo",
+   "domain": "targaresources.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "V",
+   "kind": "company_logo",
+   "domain": "corporate.visa.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=corporate.visa.com&sz=64",
+   "local_path": "logos-extra/V.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "1af2a85151909a4d04922b11c4fc0bffe0b2976f3058ed216b4a006046ac3829",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:55.838897+00:00"
+  },
+  {
+   "id": "URI",
+   "kind": "company_logo",
+   "domain": "unitedrentals.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=unitedrentals.com&sz=64",
+   "local_path": "logos-extra/URI.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "6345e684ca5f041a480075b54282f0719654c9528440af90b318b65e71059baf",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:56.770441+00:00"
+  },
+  {
+   "id": "VEEV",
+   "kind": "company_logo",
+   "domain": "veeva.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=veeva.com&sz=64",
+   "local_path": "logos-extra/VEEV.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "3097000469cc1f7a1f1fedb08ee4a843798e248791c3c679720aa0d1ce051c3e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:57.592287+00:00"
+  },
+  {
+   "id": "VLO",
+   "kind": "company_logo",
+   "domain": "valero.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "VMC",
+   "kind": "company_logo",
+   "domain": "vulcanmaterials.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=vulcanmaterials.com&sz=64",
+   "local_path": "logos-extra/VMC.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "7448b264319c66edb0db1a181a84d7c39d64fc0bacc42183674e9d6c714ac830",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:58:59.340045+00:00"
+  },
+  {
+   "id": "VRSN",
+   "kind": "company_logo",
+   "domain": "verisign.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "VRSK",
+   "kind": "company_logo",
+   "domain": "verisk.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=verisk.com&sz=64",
+   "local_path": "logos-extra/VRSK.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "4c4634ad7236a46de5592af2a270b472e537d436cb6d4fe1ce9c964ed5abeb67",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:01.038358+00:00"
+  },
+  {
+   "id": "TT",
+   "kind": "company_logo",
+   "domain": "ingersollrand.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ingersollrand.com&sz=64",
+   "local_path": "logos-extra/TT.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "4efa12afb77785e21443bedda668ba01fa7cec804dd65f93480eb97aec008eee",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:01.844604+00:00"
+  },
+  {
+   "id": "VRTX",
+   "kind": "company_logo",
+   "domain": "vrtx.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=vrtx.com&sz=64",
+   "local_path": "logos-extra/VRTX.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "793ad8316ef36aa98233500ea9a66eb9e868f6c959b65239f5134f106d23460f",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:02.738723+00:00"
+  },
+  {
+   "id": "VTR",
+   "kind": "company_logo",
+   "domain": "ventasreit.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ventasreit.com&sz=64",
+   "local_path": "logos-extra/VTR.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "f833e0bfef5a720c3673e5130677453613494be9caa32add9025dc83a9f25d87",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:03.611930+00:00"
+  },
+  {
+   "id": "VZ",
+   "kind": "company_logo",
+   "domain": "verizon.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "WAB",
+   "kind": "company_logo",
+   "domain": "wabteccorp.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=wabteccorp.com&sz=64",
+   "local_path": "logos-extra/WAB.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "a5714d8d83cda1dcefebf3ea2f656c0b9ab195009b539c99a421a080e2362c54",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:05.296566+00:00"
+  },
+  {
+   "id": "WEC",
+   "kind": "company_logo",
+   "domain": "wisconsinenergy.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "WDAY",
+   "kind": "company_logo",
+   "domain": "workday.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=workday.com&sz=64",
+   "local_path": "logos-extra/WDAY.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "ab97cc2c7271199087538350e40433726f12256938ff6dea2a11a2575b361e28",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:07.007051+00:00"
+  },
+  {
+   "id": "TECH",
+   "kind": "company_logo",
+   "domain": "bio-techne.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=bio-techne.com&sz=64",
+   "local_path": "logos-extra/TECH.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "298db7964ed98248189d2318c29f6ff41da9cbe75ebcdf911658ad78d205e696",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:07.896494+00:00"
+  },
+  {
+   "id": "WRB",
+   "kind": "company_logo",
+   "domain": "wrberkley.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=wrberkley.com&sz=64",
+   "local_path": "logos-extra/WRB.png",
+   "size": [
+    34,
+    34
+   ],
+   "sha256": "eacc71691ce5608feca7f91704cd6f209f18a2ca0b66321800cc58da80f0bcb4",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:08.786151+00:00"
+  },
+  {
+   "id": "XEL",
+   "kind": "company_logo",
+   "domain": "my.xcelenergy.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "TSCO",
+   "kind": "company_logo",
+   "domain": "tractorsupply.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "XOM",
+   "kind": "company_logo",
+   "domain": "corporate.exxonmobil.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "UAL",
+   "kind": "company_logo",
+   "domain": "united.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=united.com&sz=64",
+   "local_path": "logos-extra/UAL.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "77f3d026995eef87544423084e19237fbcd3ae6f878d1073453b8cc89bb505ff",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:12.216021+00:00"
+  },
+  {
+   "id": "TMO",
+   "kind": "company_logo",
+   "domain": "thermofisher.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "WTW",
+   "kind": "company_logo",
+   "domain": "wtwco.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=wtwco.com&sz=64",
+   "local_path": "logos-extra/WTW.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "a0850da8af8a85cee6259891b08b318e00373a0d95f0059a36233a4f15a4c85a",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:13.953848+00:00"
+  },
+  {
+   "id": "YUM",
+   "kind": "company_logo",
+   "domain": "yum.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=yum.com&sz=64",
+   "local_path": "logos-extra/YUM.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "bfc7aac59afb65996fca96698ce52d0477f0b9f6a44fafb774bebc40e6a0ba37",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:14.847969+00:00"
+  },
+  {
+   "id": "berkshire",
+   "kind": "institution_logo",
+   "domain": "berkshirehathaway.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "pershing-square",
+   "kind": "institution_logo",
+   "domain": "pershingsquareholdings.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=pershingsquareholdings.com&sz=64",
+   "local_path": "logos-extra/inst-pershing-square.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "33bd6dd945ac6551c794b9334bdcd365f56e67fd881360c5b5823a15b6d53167",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:16.518407+00:00"
+  },
+  {
+   "id": "scion",
+   "kind": "institution_logo",
+   "domain": "scionasset.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=scionasset.com&sz=64",
+   "local_path": "logos-extra/inst-scion.png",
+   "size": [
+    33,
+    33
+   ],
+   "sha256": "6c19de8cd20c9c1e7a08202224d27cab2837edff415c294ffac606679d532459",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:17.388535+00:00"
+  },
+  {
+   "id": "elliott",
+   "kind": "institution_logo",
+   "domain": "elliottmgmt.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=elliottmgmt.com&sz=64",
+   "local_path": "logos-extra/inst-elliott.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "c2e994527f73dfa7a6b4f7b7a3124a2463e1c79171f525eb7b85688d393f3766",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:18.256484+00:00"
+  },
+  {
+   "id": "de-shaw",
+   "kind": "institution_logo",
+   "domain": "deshaw.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "ark",
+   "kind": "institution_logo",
+   "domain": "ark-funds.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=ark-funds.com&sz=64",
+   "local_path": "logos-extra/inst-ark.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "648137f7ed78d4fd2e473c5046bed5acc8052a98d82587df999625c41984bbaa",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:20.029274+00:00"
+  },
+  {
+   "id": "trian",
+   "kind": "institution_logo",
+   "domain": "trianpartners.com",
+   "error": "too small 16"
+  },
+  {
+   "id": "greenlight",
+   "kind": "institution_logo",
+   "domain": "greenlightcapital.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "gotham",
+   "kind": "institution_logo",
+   "domain": "gothamfunds.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "akre",
+   "kind": "institution_logo",
+   "domain": "akrecapital.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=akrecapital.com&sz=64",
+   "local_path": "logos-extra/inst-akre.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "365fc01d0864f0392780815e22dfb97fb307b1e602e9b00fe35ddbbd306146f2",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:23.406149+00:00"
+  },
+  {
+   "id": "tci",
+   "kind": "institution_logo",
+   "domain": "tcifund.com",
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "id": "temasek",
+   "kind": "institution_logo",
+   "domain": "temasek.com.sg",
+   "source_url": "https://www.google.com/s2/favicons?domain=temasek.com.sg&sz=64",
+   "local_path": "logos-extra/inst-temasek.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "01d6501ac131b46a48f234259b9e92806906bdbbfbb3479e67e9de24ebaf702b",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:25.171013+00:00"
+  },
+  {
+   "id": "cppib",
+   "kind": "institution_logo",
+   "domain": "cppinvestments.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=cppinvestments.com&sz=64",
+   "local_path": "logos-extra/inst-cppib.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "dabb9b2427f4c88222c8c918165d4fc42100d8dc97c32b9f4f7f13705356c7a9",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:26.042945+00:00"
+  },
+  {
+   "id": "calpers",
+   "kind": "institution_logo",
+   "domain": "calpers.ca.gov",
+   "source_url": "https://www.google.com/s2/favicons?domain=calpers.ca.gov&sz=64",
+   "local_path": "logos-extra/inst-calpers.png",
+   "size": [
+    48,
+    48
+   ],
+   "sha256": "9c47ffe60ccf7ab351dfe5de2c9198fee6f0b7b678fc9590192509397e285e99",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:26.922432+00:00"
+  },
+  {
+   "id": "calstrs",
+   "kind": "institution_logo",
+   "domain": "calstrs.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=calstrs.com&sz=64",
+   "local_path": "logos-extra/inst-calstrs.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "77a26685705ad60b0b4fdf6eaf075c1d02a4749108febe8bc569d60c5bcb55df",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:27.817716+00:00"
+  },
+  {
+   "id": "squarepoint",
+   "kind": "institution_logo",
+   "domain": "squarepoint-capital.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=squarepoint-capital.com&sz=64",
+   "local_path": "logos-extra/inst-squarepoint.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "bc897d630b119f1e501a0514b495a649418fedf93611dca8314610424f72d538",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:28.675466+00:00"
+  },
+  {
+   "id": "marshall-wace",
+   "kind": "institution_logo",
+   "domain": "mwam.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=mwam.com&sz=64",
+   "local_path": "logos-extra/inst-marshall-wace.png",
+   "size": [
+    32,
+    32
+   ],
+   "sha256": "4418d0fe74cf39da55ff5b026cd101d8c93e8052d4580ff4a69b5461a294ef24",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "retrieved_at": "2026-10-04T18:59:29.470717+00:00"
+  },
+  {
+   "id": "GOOGL",
+   "kind": "company_logo",
+   "domain": "google.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64",
+   "local_path": "logos-extra/GOOGL.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "c37d741e3f37266dfc8c8fbfc73c66c0a9268cb0952731283030068adfa9501e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "note": "Alphabet shown by its Google mark (abc.xyz has no icon)",
+   "retrieved_at": "2026-10-04T19:00:09.628112+00:00"
+  },
+  {
+   "id": "GOOG",
+   "kind": "company_logo",
+   "domain": "google.com",
+   "source_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64",
+   "local_path": "logos-extra/GOOG.png",
+   "size": [
+    64,
+    64
+   ],
+   "sha256": "c37d741e3f37266dfc8c8fbfc73c66c0a9268cb0952731283030068adfa9501e",
+   "license": "unknown_site_favicon (Google favicon cache)",
+   "note": "Alphabet shown by its Google mark (abc.xyz has no icon)",
+   "retrieved_at": "2026-10-04T19:00:09.630740+00:00"
+  }
+ ]
+}

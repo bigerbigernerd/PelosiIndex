@@ -1,0 +1,15 @@
+[
+ {
+  "id": "citadel",
+  "accession": "0001104659-26-104387",
+  "period": "2026-06-30",
+  "filed": "2026-09-02",
+  "form": "13F-HR/A",
+  "amendment_kind": "restatement",
+  "cover": "sec-amend/000110465926104387/primary_doc.xml",
+  "table": "sec-amend/000110465926104387/infotable.xml",
+  "url": "https://www.sec.gov/Archives/edgar/data/1423053/000110465926104387/infotable.xml",
+  "sha256": "2240e2a0d69d9f68a0c6d79d18ef4622517d5f08932a7afdfea49210160cb520",
+  "at": "2026-10-04T18:50:03.947872+00:00"
+ }
+]

@@ -1,0 +1,20 @@
+name: 网站问题 / Bug report
+description: 报告图谱、搜索、手机布局或下载问题。
+title: "[bug] "
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重现步骤 / Steps to reproduce
+      description: 页面、操作步骤、预期结果和实际结果。
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: 浏览器和设备 / Browser and device
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 截图或错误信息 / Evidence
+      description: 请先移除私人输入、Token 和凭据。

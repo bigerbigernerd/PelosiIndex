@@ -1,0 +1,30 @@
+name: 数据补充或纠错 / Data contribution
+description: 提交有官方原件支持的主体、记录或解析问题。
+title: "[data] "
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: 主体和变更 / Subject and change
+      description: 谁、哪个资产、应新增或修正什么？
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 原件证据 / Official evidence
+      description: 官方 URL、报告编号、页码/条目、报告期、交易和申报日期；有文件时附 SHA-256。
+    validations:
+      required: true
+  - type: textarea
+    id: semantics
+    attributes:
+      label: 口径 / Reporting semantics
+      description: Owner、金额区间、期权/股票/债券、交易代码、季度快照，以及未知项。
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: 确认 / Review
+      options:
+        - label: 我已阅读 CONTRIBUTING.md；提交的关系有原件支持，AI 输出不作为证据。
+          required: true

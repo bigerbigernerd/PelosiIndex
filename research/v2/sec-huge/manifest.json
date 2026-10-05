@@ -1,0 +1,123 @@
+[
+ {
+  "id": "citadel",
+  "accession": "0001104659-26-062477",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1423053/000110465926062477/infotable.xml",
+  "path": "sec-huge/000110465926062477/infotable.xml",
+  "status": 200,
+  "bytes": 7845034,
+  "sha256": "037e6cf2731f2dcbefa98c7d5f45136b6837f2aeb3d702a4ba9f4c5b4c27b7f3",
+  "at": "2026-10-04T18:29:41.886799+00:00"
+ },
+ {
+  "id": "de-shaw",
+  "accession": "0001104659-26-062472",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1009207/000110465926062472/infotable.xml",
+  "path": "sec-huge/000110465926062472/infotable.xml",
+  "status": 200,
+  "bytes": 2925259,
+  "sha256": "d9c569d8c3504930b366ee2bd04649c7b8a599454cc9ca41a621d22a226305a8",
+  "at": "2026-10-04T18:29:44.726402+00:00"
+ },
+ {
+  "id": "millennium",
+  "accession": "0001273087-26-000004",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1273087/000127308726000004/MLP_FIling_20260331.xml",
+  "path": "sec-huge/000127308726000004/MLP_FIling_20260331.xml",
+  "status": 200,
+  "bytes": 2950975,
+  "sha256": "06a8b1175725e0023473543b83d47412818f3e04518896274057d7ed7b9ef320",
+  "at": "2026-10-04T18:29:47.562647+00:00"
+ },
+ {
+  "id": "aqr",
+  "accession": "0001167557-26-000226",
+  "period": "2026-06-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000226/infotable.xml",
+  "path": "sec-huge/000116755726000226/infotable.xml",
+  "status": 200,
+  "bytes": 13304701,
+  "sha256": "ea8152c3069234e5deb6fcff5255ca9bf0cdec93d69c27e86874d3484845b653",
+  "at": "2026-10-04T18:29:51.776666+00:00"
+ },
+ {
+  "id": "aqr",
+  "accession": "0001167557-26-000115",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1167557/000116755726000115/infotable.xml",
+  "path": "sec-huge/000116755726000115/infotable.xml",
+  "status": 200,
+  "bytes": 13148927,
+  "sha256": "16a6b03a8c854c22a04061bddcfe687199bf42f4f9dbb89d63501f4fd9b17153",
+  "at": "2026-10-04T18:29:56.071226+00:00"
+ },
+ {
+  "id": "jane-street",
+  "accession": "0001595888-26-000108",
+  "period": "2026-06-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000108/q2-2026-13f-hr.xml",
+  "path": "sec-huge/000159588826000108/q2-2026-13f-hr.xml",
+  "status": 200,
+  "bytes": 8612878,
+  "sha256": "85f00cd7e9128e7311de5377762b1fb2849540f68e5d29b120873944f0760450",
+  "at": "2026-10-04T18:29:59.746582+00:00"
+ },
+ {
+  "id": "jane-street",
+  "accession": "0001595888-26-000043",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1595888/000159588826000043/q1_2026-13f.xml",
+  "path": "sec-huge/000159588826000043/q1_2026-13f.xml",
+  "status": 200,
+  "bytes": 11162326,
+  "sha256": "8febae1b98fb38f0cbefcc070f102f275627c9d3dbdafd65a41cb68b06bd754b",
+  "at": "2026-10-04T18:30:03.699434+00:00"
+ },
+ {
+  "id": "susquehanna",
+  "accession": "0001446194-26-000008",
+  "period": "2026-06-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000008/file.XML",
+  "path": "sec-huge/000144619426000008/file.XML",
+  "status": 200,
+  "bytes": 7739984,
+  "sha256": "d9881018cab25b16e6a6e50c1449f146eda99efeca402f54d4fc477c556e3281",
+  "at": "2026-10-04T18:30:07.081900+00:00"
+ },
+ {
+  "id": "susquehanna",
+  "accession": "0001446194-26-000005",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1446194/000144619426000005/file.XML",
+  "path": "sec-huge/000144619426000005/file.XML",
+  "status": 200,
+  "bytes": 7570397,
+  "sha256": "7631e8b9b684594fb16b1b8b26c6ae0184243f6055e1f6e911847445e69c51ef",
+  "at": "2026-10-04T18:30:10.600582+00:00"
+ },
+ {
+  "id": "marshall-wace",
+  "accession": "0001318757-26-000010",
+  "period": "2026-06-30",
+  "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000010/mwllp2q26.xml",
+  "path": "sec-huge/000131875726000010/mwllp2q26.xml",
+  "status": 200,
+  "bytes": 3295788,
+  "sha256": "f3e121072c4d1b9f1652f21f4e406b1e40ed3deba2bf5e5c8db678846e84d126",
+  "at": "2026-10-04T18:30:13.521394+00:00"
+ },
+ {
+  "id": "marshall-wace",
+  "accession": "0001318757-26-000005",
+  "period": "2026-03-31",
+  "url": "https://www.sec.gov/Archives/edgar/data/1318757/000131875726000005/mwllp1q26V2.xml",
+  "path": "sec-huge/000131875726000005/mwllp1q26V2.xml",
+  "status": 200,
+  "bytes": 3335943,
+  "sha256": "5fe0955fdb2116400486ad990ae1dc4eca3e3893e4f06e655f8cee3e2fe39689",
+  "at": "2026-10-04T18:30:16.380547+00:00"
+ }
+]
