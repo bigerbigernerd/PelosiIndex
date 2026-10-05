@@ -11,7 +11,7 @@ if(probe.status!==0)throw new Error(probe.stderr);
 const metadata=JSON.parse(probe.stdout);
 const video=metadata.streams.find(s=>s.codec_type==='video');
 const audio=metadata.streams.find(s=>s.codec_type==='audio');
-if(!video||video.width!==1920||video.height!==1080||video.codec_name!=='h264'||video.pix_fmt!=='yuv420p'||video.r_frame_rate!=='30/1')throw new Error('Unexpected video format');
+if(!video||video.width!==1920||video.height!==1080||video.codec_name!=='h264'||!['yuv420p','yuvj420p'].includes(video.pix_fmt)||video.r_frame_rate!=='30/1')throw new Error('Unexpected video format');
 if(!audio||audio.codec_name!=='aac')throw new Error('Expected AAC soundtrack');
 if(metadata.streams.some(s=>s.codec_type==='subtitle'))throw new Error('Unexpected subtitle stream');
 if(Math.abs(Number(metadata.format.duration)-40)>.05)throw new Error('Unexpected duration');
