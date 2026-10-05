@@ -1,0 +1,32 @@
+import {spawnSync} from 'node:child_process';
+import {mkdirSync,readFileSync,writeFileSync,statSync} from 'node:fs';
+import {resolve} from 'node:path';
+const movie=resolve('out/youtube/Pelosi-Index-English-1080p.mp4');
+const thumbnail=resolve('out/youtube/Pelosi-Index-YouTube-Cover-4K.jpg');
+const ffmpeg=resolve('node_modules/@remotion/compositor-linux-x64-gnu/ffmpeg');
+const ffprobe=resolve('node_modules/@remotion/compositor-linux-x64-gnu/ffprobe');
+mkdirSync('qa/youtube',{recursive:true});
+const probe=spawnSync(ffprobe,['-v','error','-show_entries','format=duration,size,format_name:stream=index,codec_name,codec_type,width,height,pix_fmt,r_frame_rate,duration,sample_rate,channels','-of','json',movie],{encoding:'utf8'});
+if(probe.status!==0)throw new Error(probe.stderr);
+const metadata=JSON.parse(probe.stdout);
+const video=metadata.streams.find(s=>s.codec_type==='video');
+const audio=metadata.streams.find(s=>s.codec_type==='audio');
+if(!video||video.width!==1920||video.height!==1080||video.codec_name!=='h264'||video.pix_fmt!=='yuv420p'||video.r_frame_rate!=='30/1')throw new Error('Unexpected video format');
+if(!audio||audio.codec_name!=='aac')throw new Error('Expected AAC soundtrack');
+if(metadata.streams.some(s=>s.codec_type==='subtitle'))throw new Error('Unexpected subtitle stream');
+if(Math.abs(Number(metadata.format.duration)-40)>.05)throw new Error('Unexpected duration');
+const times=[['brand',2.5],['graph',7.5],['evidence',17],['stock',24.6],['skills',32.4],['close',38]];
+for(const [name,time] of times){
+  const r=spawnSync(ffmpeg,['-v','error','-y','-ss',String(time),'-i',movie,'-frames:v','1',`qa/youtube/${name}.jpg`],{encoding:'utf8'});
+  if(r.status!==0)throw new Error(r.stderr);
+}
+const level=spawnSync(ffmpeg,['-hide_banner','-i',movie,'-vn','-af','loudnorm=I=-18:TP=-1:LRA=11:print_format=json','-f','null','-'],{encoding:'utf8'});
+if(level.status!==0)throw new Error(level.stderr);
+const matches=level.stderr.match(/\{[^{}]+\}/g);
+const loudness=JSON.parse(matches[matches.length-1]);
+const title=JSON.parse(readFileSync('out/youtube/youtube-metadata.json','utf8')).title;
+if(title.length>100)throw new Error('Title exceeds upload limit');
+if(statSync(thumbnail).size>2*1024*1024)throw new Error('Thumbnail exceeds the conservative mobile file-size target');
+writeFileSync('qa/youtube/export-check.json',JSON.stringify({metadata,loudness,representativeFrames:times,subtitleStreams:0,thumbnailBytes:statSync(thumbnail).size,titleCharacters:title.length},null,2)+'\n');
+console.log('Verified H.264/AAC, 1080p30, 40 seconds, no subtitle streams; extracted six delivery frames.');
+console.log(JSON.stringify({loudness,videoMiB:statSync(movie).size/1048576,thumbnailKiB:statSync(thumbnail).size/1024}));

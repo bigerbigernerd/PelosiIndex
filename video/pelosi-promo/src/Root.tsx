@@ -1,5 +1,5 @@
 import React from 'react';
-import {Composition,Folder} from 'remotion';
+import {Composition,Folder,Still} from 'remotion';
 import {PelosiPromo} from './Composition';
 import {Opening} from './scenes/Opening';
 import {Overview} from './scenes/Overview';
@@ -14,8 +14,10 @@ import {EnglishPelosiScene} from './english/scenes/Pelosi';
 import {EnglishStockScene} from './english/scenes/Stock';
 import {EnglishSkillsScene} from './english/scenes/Skills';
 import {EnglishClosing} from './english/scenes/Closing';
+import {YouTubeCover} from './english/YouTubeCover';
 
 export const RemotionRoot: React.FC = () => <>
+  <Still id="YouTube-Cover" component={YouTubeCover} width={1920} height={1080}/>
   <Composition id="PelosiPromo-English" component={PelosiPromoEnglish} durationInFrames={1200} fps={30} width={1920} height={1080} defaultProps={{voiceover: true}} />
   <Composition id="PelosiPromo-English-Instrumental" component={PelosiPromoEnglish} durationInFrames={1200} fps={30} width={1920} height={1080} defaultProps={{voiceover: false}} />
   <Folder name="English-Scenes">

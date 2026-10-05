@@ -45,3 +45,14 @@ python3 scripts/prepare-english-audio.py
 Generated raw speech defaults to `public/audio/english/raw/`; `PELOSI_VOICE_OUTPUT` can override that location. Install VoxCPM2 separately using its official instructions. The optional ASR check requires locally available `openai/whisper-base.en` weights. Speech keeps its synthesized timing and pitch; preparation adjusts loudness only. It uses system FFmpeg, `REMOTION_FFMPEG_EXECUTABLE`, or the bundled Linux FFmpeg fallback. Model weights, credentials and workstation settings are not included.
 
 The export pins `typescript-eslint` 8.71.0 for Remotion's development lint configuration to avoid its older dependency chain. The configuration loads successfully; full development and production dependency audits passed when this export was prepared.
+
+## YouTube assets
+
+`YouTube-Cover` is a separate editable Still using the same brand design and an attributed public congressional portrait. It does not add subtitles to the video.
+
+```sh
+npx remotion render src/index.ts PelosiPromo-English out/youtube/Pelosi-Index-English-1080p.mp4 --codec=h264 --crf=16 --audio-codec=aac
+npx remotion still src/index.ts YouTube-Cover out/youtube/Pelosi-Index-YouTube-Cover-4K.jpg --image-format=jpeg --jpeg-quality=86 --scale=2
+```
+
+The upload copy includes a 40-second H.264/AAC movie, a 3840×2160 JPEG thumbnail and separate English title, description and tag files. Generated exports and QA files stay under the ignored `out/` and `qa/` directories. Thumbnail portrait provenance is recorded in `public/youtube/credits.json`.
